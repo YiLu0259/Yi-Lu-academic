@@ -32,7 +32,7 @@ education:
   courses:
     - year: ""
       course: PhD in Developmental Psychology
-      institution: Cornell.University
+      institution: Cornell University
     - course: BSc in Psychology
       institution: Peking University
       year: ""
