@@ -7,7 +7,7 @@ title: "Cognitive Aging: Brain, Attention & Memory"
 location: Cornell University
 date: 2022-07-19T13:00:00.000Z
 date_end: 2022-07-19T15:00:00.000Z
-all_day: false
+all_day: true
 event: COGST 1101 COMBINED-XLIST Introduction to Cognitive Science (2022SU)
 event_url: https://www.youtube.com/watch?v=XOnoFnUMiJk&ab_channel=YiLu
 featured: false
