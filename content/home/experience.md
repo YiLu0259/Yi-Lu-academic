@@ -21,16 +21,16 @@ experience:
     company: 'Brown University'
     company_url: ''
     location: 'RI'
-    date_start: '2019-06'
-    date_end: '2019-09'
+    date_start: '2019-06-26'
+    date_end: '2019-09-01'
     description: ''
                 
   - title: 'Research Assistant'
     company: 'Yale University'
     company_url: ''
     location: 'CT'
-    date_start: '2019-07'
-    date_end: '2019-10'
+    date_start: '2019-07-01'
+    date_end: '2019-10-01'
     description: 'Taught electronic engineering and researched semiconductor physics.'
 
 design:
