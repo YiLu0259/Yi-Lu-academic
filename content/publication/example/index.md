@@ -46,9 +46,9 @@ publication_short: PsyCh Journal
 url_source: ""
 url_video: ""
 title: "Viewing time and facial trustworthiness perception: Give it a second
-  thought may not work for older adults. "
+  thought may not work for older adults "
 subtitle: ""
-doi: https://onlinelibrary.wiley.com/doi/10.1002/pchj.469
+doi: 10.1002/pchj.469
 featured: true
 tags: []
 projects: []
