@@ -42,20 +42,21 @@ publication: ""
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: ""
+publication_short: PsyCh Journal
 url_source: ""
 url_video: ""
 title: "Viewing time and facial trustworthiness perception: Give it a second
   thought may not work for older adults. "
 subtitle: ""
-doi: doi/10.1002/pchj.469
+doi: https://onlinelibrary.wiley.com/doi/10.1002/pchj.469
 featured: true
 tags: []
 projects: []
 image:
   caption: ""
-  focal_point: ""
+  focal_point: CENTER
   preview_only: false
+  filename: faces.png
 date: 2021-06-17T01:00:35.568Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
