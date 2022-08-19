@@ -1,7 +1,16 @@
+---
+# An instance of the Featurette widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
-headless: true  # This file represents a page section.
 
-# ... Put Your Section Options Here (title etc.) ...
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 40
+
+title: Experiences
+subtitle: ""
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
