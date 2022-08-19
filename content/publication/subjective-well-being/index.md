@@ -1,5 +1,5 @@
 ---
-title: "Subjective Well-being. "
+title: Subjective Well-being
 publication_types:
   - "6"
 authors:
