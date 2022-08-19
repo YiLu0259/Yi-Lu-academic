@@ -22,28 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: Brown university
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: RI
+    date_start: '2019-06'
+    date_end: '2019-09'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Worked with Dr. Joo-Hyun Song at the Perception, Action and Cognition Lab to explore whether visuomotoraction training enhances people’s mental rotation abilities on maps. Designed and conducted action experiments using Sketchup, MATLAB Psychtoolbox and movement tracking pad. Analyzed data on hand movement trajectory and reaction performance using MATLAB. Poster presented by lab member Claire McEwen at the 2019 Annual Meeting of Vision Sciences Society.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assustant
+    company: Yale University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: CT
+    date_start: '2019-07'
+    date_end: '2019-09'
+    description: 
+    Worked with Dr. Maria Gendron at her Affective Science and Culture Lab to study the cultural differences on emotional components in Chinese and Americans' oral expressions after they viewed the Heider-Simmel Mental State video clips. Conducted natural language meaning analysis using Meaning Extraction Helper and ZhToken.
+    
+    
 
 design:
   columns: '2'
