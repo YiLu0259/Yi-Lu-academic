@@ -29,8 +29,8 @@ experience:
     location: RI
     date_start: '2019-06'
     date_end: '2019-09'
-    description: |2-
-        Worked with Dr. Joo-Hyun Song at the Perception, Action and Cognition Lab to explore whether visuomotoraction training enhances people’s mental rotation abilities on maps. Designed and conducted action experiments using Sketchup, MATLAB Psychtoolbox and movement tracking pad. Analyzed data on hand movement trajectory and reaction performance using MATLAB. Poster presented by lab member Claire McEwen at the 2019 Annual Meeting of Vision Sciences Society.
+    description:     
+    Worked with Dr. Joo-Hyun Song at the Perception, Action and Cognition Lab to explore whether visuomotoraction training enhances people’s mental rotation abilities on maps. Designed and conducted action experiments using Sketchup, MATLAB Psychtoolbox and movement tracking pad. Analyzed data on hand movement trajectory and reaction performance using MATLAB. Poster presented by lab member Claire McEwen at the 2019 Annual Meeting of Vision Sciences Society.
 
   - title: Research Assustant
     company: Yale University
