@@ -5,7 +5,7 @@ url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: "Cognitive Aging: Brain, Attention & Memory"
 location: Cornell University
-date: 2022-08-19T02:51:00.015Z
+date: 2022-07-19T13:50:00.015Z
 date_end: 2022-07-19T15:00:00.000Z
 all_day: true
 event: COGST 1101 COMBINED-XLIST Introduction to Cognitive Science (2022SU)
