@@ -6,7 +6,8 @@ title: Yi Lu
 superuser: true
 
 # Role/position/tagline
-role: PhD student of Developmental Psychology
+role: PhD student 
+Developmental Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
