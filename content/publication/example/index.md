@@ -1,87 +1,64 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: Older adults tend to rate unfamiliar faces higher on trustworthiness
+  than do their younger counterparts. Although the saying goes “look before you
+  leap”, it is still unknown whether such a strategy could also apply to facial
+  trustworthiness perception, and our understanding of the time course in facial
+  trustworthiness perception also remains unclear. Here, we have argued that a
+  cognitive controlled process suggested by “socioemotional selectivity theory”
+  could potentially lead to such biased trustworthiness perception. Two
+  experiments were conducted to test the association between viewing time and
+  trustworthiness perception. The first study used hierarchical linear modeling
+  in a sample of younger (N = 30, Mage = 20.53, SD = 1.61, 50% female) and older
+  (N = 30, Mage = 63.27, SD = 3.14, 43% female) adults, and found that viewing
+  time and trustworthiness evaluation were positively associated. Using the same
+  stimuli, our second study further manipulated viewing time by two levels
+  (500 ms vs. 3000 ms) and compared younger (N = 28, Mage = 23.93, SD = 2.68,
+  50% female) and older (N = 30, Mage = 64.47, SD = 4.32, 50% female) adults'
+  facial trustworthiness evaluation. As expected, a significant three-way
+  interaction revealed that viewing time only impacted older adults' facial
+  trustworthiness evaluation, and only when given shorter viewing time did older
+  adults show similar facial trustworthiness ratings as younger adults. The
+  present study is the first to directly investigate the relationship between
+  older adults' viewing time on unfamiliar faces and their perception of facial
+  trustworthiness. Findings suggested that a second thought in facial perception
+  may not benefit older adults' trustworthiness evaluation.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Lu
+  - Y.
+  - Chen
+  - C.
+  - Yin
+  - X.
+  - Xu
+  - Y.
+  - "& Zhang"
+  - X.
+author_notes: []
+publication: ""
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: "Viewing time and facial trustworthiness perception: Give it a second
+  thought may not work for older adults. "
+subtitle: ""
+doi: doi/10.1002/pchj.469
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2022-08-19T01:00:35.568Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
