@@ -12,7 +12,7 @@ event: COGST 1101 COMBINED-XLIST Introduction to Cognitive Science (2022SU)
 event_url: ""
 featured: false
 authors: []
-url_video: (https://www.youtube.com/watch?v=XOnoFnUMiJk&ab_channel=YiLu)
+url_video: https://www.youtube.com/watch?v=XOnoFnUMiJk&ab_channel=YiLu
 url_slides: ""
 address:""
   
