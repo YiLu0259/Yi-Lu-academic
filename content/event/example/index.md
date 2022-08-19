@@ -9,7 +9,7 @@ date: 2022-07-19T13:00:00.000Z
 date_end: 2022-07-19T15:00:00.000Z
 all_day: false
 event: COGST 1101 COMBINED-XLIST Introduction to Cognitive Science (2022SU)
-event_url: /
+event_url: https://www.youtube.com/watch?v=XOnoFnUMiJk&ab_channel=YiLu
 featured: false
 authors: []
 url_video: ""
@@ -20,9 +20,8 @@ address:
   region: CA
   postcode: "94305"
   country: United States
-links:
-  - url: https://www.youtube.com/watch?v=XOnoFnUMiJk&ab_channel=YiLu
-publishDate: 2017-01-01T00:00:00Z
+links: []
+publishDate: 2017-01-01T00:00:00.000Z
 tags: []
 projects: []
 image:
