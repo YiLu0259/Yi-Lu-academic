@@ -23,7 +23,7 @@ experience:
     location: 'RI'
     date_start: '2019-06-26'
     date_end: '2019-09-01'
-    description: 'Worked with Dr. Joo-Hyun Song at her Perception, Action and Cognition Lab to explore whether visuomotoraction training enhances people’s mental rotation abilities on maps. Designed and conducted action experiments using Sketchup, MATLAB Psychtoolbox and movement tracking pad. Analyzed data on hand movement trajectory and reaction performance using MATLAB. Poster presented by lab member Claire McEwen at the 2019 Annual Meeting of Vision Sciences Society.'
+    description: 'Designed and conducted action experiments using Sketchup, MATLAB Psychtoolbox and movement tracking pad. Analyzed data on hand movement trajectory and reaction performance using MATLAB. '
                 
   - title: 'Research Assistant'
     company: 'Yale University'
@@ -31,7 +31,7 @@ experience:
     location: 'CT'
     date_start: '2019-07-01'
     date_end: '2019-10-01'
-    description: 'Worked with Dr. Maria Gendron at her Affective Science and Culture Lab to study the cultural differences on emotional components in Chinese and Americans' oral expressions after they viewed the Heider-Simmel Mental State video clips. Conducted natural language meaning analysis using Meaning Extraction Helper and ZhToken.'
+    description: 'Conducted natural language meaning analysis using Meaning Extraction Helper and ZhToken.'
 
 design:
   columns: '2'
