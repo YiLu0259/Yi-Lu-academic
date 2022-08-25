@@ -1,11 +1,11 @@
 ---
 widget: Blank
-widget_id: twitter
+widget_id: twi
 headless: true
 weight: 10
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
     text_color_light: false
     image_darken: 0
