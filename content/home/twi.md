@@ -2,7 +2,7 @@
 widget: blank
 widget_id: twi
 headless: true
-weight: 30
+weight: 35
 active: true
 design:
   columns: "1"
