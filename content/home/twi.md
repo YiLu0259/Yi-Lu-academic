@@ -1,5 +1,5 @@
 ---
-widget: Blank
+widget: blank
 widget_id: twi
 headless: true
 weight: 30
