@@ -10,6 +10,8 @@ menu_primary = "#fff"
 menu_text = "#34495e"
 menu_text_active = "#FF9333"
 menu_title = "#2b2b2b"
+link = "#FF9333"
+link_hover = "#FF9333"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
