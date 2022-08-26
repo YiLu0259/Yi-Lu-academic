@@ -1,12 +1,10 @@
 # Font style metadata
 name = "my_theme"
 
-# Is theme light or dark?
-
-
 # Primary
 primary = "#FF9333"
 
+[light]
 # Menu
 menu_primary = "#fff"
 menu_text = "#34495e"
@@ -16,3 +14,14 @@ menu_title = "#2b2b2b"
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(247, 247, 247)"
+
+
+[dark]
+  primary = "#FF9333"
+  link = "#FF9333"
+  link_hover = "#FF9333"
+  background = "rgb(26, 32, 44)"
+  
+  home_section_odd = "rgb(26, 32, 44)"
+  home_section_even = "rgb(26, 32, 44)"
+  menu_primary = "rgb(26, 32, 44)"
