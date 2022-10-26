@@ -11,6 +11,7 @@ weight: 40
 
 title: Experience
 subtitle:
+
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
@@ -20,34 +21,37 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-Experience:
-
-  - title: 'Research Assistant'
-    company: 'Perking University'
+experience:
+  - title: Research Assistant
+    company: Perking University
     company_url: ''
-    location: 'CN'
+    location: CN
     date_start: '2017-09-01'
     date_end: '2020-7-01'
-    description: 'Completed a undergraduate research to investigate the impact of aging stereotypes on older people’s risky decisions, and a honor thesis on a cross-cultural comparison study of Chinese and Americans' self-continuity across age.'
-  
-  - title: 'Research Assistant'
-    company: 'Brown University'
+    description: |2-
+        
+        * Undergraduate research to investigate the impact of aging stereotypes on older people’s risky decisions
+        * Honor thesis on a cross-cultural comparison study of Chinese and Americans' self-continuity across age
+
+
+  - title: Research Assistant
+    company: Brown University
     company_url: ''
-    location: 'RI'
+    location: RI
     date_start: '2019-06-26'
     date_end: '2019-09-01'
-    description: 'Designed and conducted action experiments using Sketchup, MATLAB Psychtoolbox and movement tracking pad. Analyzed data on hand movement trajectory and reaction performance using MATLAB. '
+    description: Designed and conducted action experiments using Sketchup, MATLAB Psychtoolbox and movement tracking pad. Analyzed data on hand movement trajectory and reaction performance using MATLAB. 
                 
-  - title: 'Research Assistant'
-    company: 'Yale University'
+  - title: Research Assistant
+    company: Yale University
     company_url: ''
-    location: 'CT'
+    location: CT
     date_start: '2019-07-01'
     date_end: '2019-10-01'
-    description: 'Conducted natural language meaning analysis using Meaning Extraction Helper and ZhToken.'
+    description: Conducted natural language meaning analysis using Meaning Extraction Helper and ZhToken.
     
+
 
 design:
   columns: '2'
-  
 ---
