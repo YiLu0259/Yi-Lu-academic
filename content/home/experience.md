@@ -33,21 +33,25 @@ experience:
         * Undergraduate research on the impact of aging stereotypes on older people’s risky decisions
         * Honor thesis on a cross-cultural comparison study of Chinese and Americans' self-continuity across age
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistant
+    company: Brown University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: RI
+    date_start: '2019-06-26'
+    date_end: '2019-09-01'
+    description: |2-
     
-  - title: Professor of Semiconductor Physics
-    company: University X
+        * Designed and conducted action experiments using Sketchup, MATLAB Psychtoolbox and movement tracking pad. 
+        * Analyzed data on hand movement trajectory and reaction performance using MATLAB. 
+
+    
+  - title: Research Assistant
+    company: Yale University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: CT
+    date_start: '2019-07-01'
+    date_end: '2019-10-01'
+    description: Conducted natural language meaning analysis using Meaning Extraction Helper and ZhToken.
 
 design:
   columns: '2'
