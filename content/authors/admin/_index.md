@@ -2,9 +2,8 @@
 title: Yi Lu
 role: PhD Student of Developmental Psychology
 avatar_filename: wechatimg62.jpeg
-bio: I am interested in people's aging process and related psychological
-  changes. Currently my research topics include self-continuity and social
-  discounting.
+bio: I am interested in people's aging process and related psychological changes
+  in self-concepts and social relations.
 interests:
   - Aging Process
   - Self-Continuity
@@ -38,4 +37,4 @@ education:
       year: ""
 superuser: true
 ---
-I’m Yi Lu, currently working in the [Healthy Aging Lab](https://www.human.cornell.edu/hd/research/labs/healthyaging/home) at Cornell University, U.S. My research focus on lifespan development, especially people's aging process. One of my ongoing projects studies the age differences in temporal self-continuity, i.e., the psychological connectedness between our current self and a distant past/ future self. I’m also interested in the socially extensive self, such as the social discounting that people offer benefits to others according to the perceived social distance. In parallel to my research, I work as a mentor for Extended Project Qualification (EPQ), assisting high school students on their first social science project. I have a cat named Pouncival.
+I’m Yi Lu, currently working in the [Healthy Aging Lab](https://www.human.cornell.edu/hd/research/labs/healthyaging/home) at Cornell University, U.S. My research focus on lifespan development, especially people's aging process in self-concepts and social relations, and decision-making outcomes. In parallel to my research, I serve as a member of the Grad Student Committe at Psych Department, Cornell, and work as a mentor for Extended Project Qualification (EPQ), assisting high school students on their first social science project. I have a cat named Pouncival. 
