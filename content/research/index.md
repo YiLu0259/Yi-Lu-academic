@@ -14,4 +14,13 @@ header:
   image: ""
 ---
 
-Add your *content* here...
+My line of research focus on lifespan development in:
+
+### (1) Temporal Self
+One of my ongoing projects studies the age differences in temporal self-continuity, i.e., the psychological connectedness between our current self and a distant past/ future self. 
+
+### (2) Social Relations
+I’m also interested in the socially extensive self, such as the social discounting that people offer benefits to others according to the perceived social distance. 
+
+### (3) Decision-Making
+A deeper understanding of our temporally and socially extended selves can ultimately help us to improve real-life decisions, such as investments and generativity. 
