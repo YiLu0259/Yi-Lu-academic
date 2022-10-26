@@ -22,32 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
-    company: Perking University
+  - title: CEO
+    company: GenCoin
     company_url: ''
-    location: CN
-    date_start: '2017-09-01'
-    date_end: '2020-7-01'
-    description: 
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
-
-  - title: Research Assistant
-    company: Brown University
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
-    location: RI
-    date_start: '2019-06-26'
-    date_end: '2019-09-01'
-    description: Designed and conducted action experiments using Sketchup, MATLAB Psychtoolbox and movement tracking pad. Analyzed data on hand movement trajectory and reaction performance using MATLAB. 
-                
-  - title: Research Assistant
-    company: Yale University
-    company_url: ''
-    location: CT
-    date_start: '2019-07-01'
-    date_end: '2019-10-01'
-    description: Conducted natural language meaning analysis using Meaning Extraction Helper and ZhToken.
-    
-
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
