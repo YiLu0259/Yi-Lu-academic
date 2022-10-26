@@ -33,12 +33,12 @@ experience:
     date_end: '2019-10-01'
     description: 'Conducted natural language meaning analysis using Meaning Extraction Helper and ZhToken.'
     
-    - title: 'Research Assistant'
+  - title: 'Research Assistant'
     company: 'Perking University'
     company_url: ''
     location: 'CN'
-    date_start: '2017-07-01'
-    date_end: '2020-10-01'
+    date_start: '2017-09-01'
+    date_end: '2020-7-01'
     description: 'Completed a undergraduate research to investigate the impact of aging stereotypes on older people’s risky decisions, and a honor thesis on a cross-cultural comparison study of Chinese and Americans' self-continuity across age..'
 
 design:
