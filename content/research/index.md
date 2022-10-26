@@ -21,7 +21,7 @@ My current research focus on the age differences in **temporal self-continuity**
 
 Our next step is to develop an advanced modeling approach by applying economic discounting models to self-continuity.
 
-### (2) Social Relations
+### (2) Social Self
 I’m also interested in the extended self in social relations. One example is **social discounting**, i.e., people offer benefits to others according to the perceived social distance. We are currently conducting a cross-cultural survey on age-related differences in social discounting.
 
 ### (3) Decision-Making
