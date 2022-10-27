@@ -1,5 +1,5 @@
 ---
-title: Yi Lu
+title: Yi (Lois) Lu
 role: PhD Student of Developmental Psychology
 avatar_filename: wechatimg62.jpeg
 bio: I am interested in people's aging process and related psychological changes
