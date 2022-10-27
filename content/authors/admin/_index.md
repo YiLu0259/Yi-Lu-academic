@@ -30,7 +30,7 @@ organizations:
 education:
   courses:
     - year: ""
-      course: PhD in Developmental Psychology
+      course: PhD student in Developmental Psychology
       institution: Cornell University
     - course: BSc in Psychology
       institution: Peking University
