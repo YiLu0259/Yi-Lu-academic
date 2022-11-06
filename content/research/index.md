@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `assets/media/` folder).
 banner: 
   caption: 
-  image: "human-life-cycle-man-woman-people-different-age_316839-3221.jpeg"
+  image: "female_cycle.jpg"
   
   
   
