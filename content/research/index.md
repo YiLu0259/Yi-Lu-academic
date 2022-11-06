@@ -9,7 +9,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 # Optional header image (relative to `assets/media/` folder).
-banner: Research
+banner: 
   caption: 
   image: "human-life-cycle-man-woman-people-different-age_316839-3221.jpeg"
   
