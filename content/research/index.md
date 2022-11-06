@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `assets/media/` folder).
 header: 
   caption: "Research"
-  image: human-life-cycle.png
+  image: assets/media/human-life-cycle.png
   
   
 ---
