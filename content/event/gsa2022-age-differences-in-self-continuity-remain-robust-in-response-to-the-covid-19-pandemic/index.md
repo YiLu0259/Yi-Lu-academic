@@ -36,6 +36,6 @@ Self-continuity, the perceived connectedness to one’s past and future selves, 
 1. After attending this session, participants will be able to summarize pandemic effects on self-continuity
 2. After attending this session, participants will appreciate that previously reported age differences in self-continuity remained robust in response to the pandemic
 
-
+{{% staticref "uploads/GSA2022_poster_Yi.pdf" "newtab" %}}Click to view the POSTER{{% /staticref %}}
 
 
