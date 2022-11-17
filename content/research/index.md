@@ -9,13 +9,12 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 # Optional header image (relative to `assets/media/` folder).
-banner: 
-  caption: 
-  image: "female_cycle.jpg"
-  
+
   
   
 ---
+
+![screen reader text](female_cycle.jpg "female")
 
 My line of research focus on lifespan development in:
 
@@ -29,3 +28,5 @@ I’m also interested in the extended self in social relations. One example is *
 
 ### (3) Decision-Making
 A deeper understanding of our temporally and socially extended selves can ultimately help us to improve real-life decisions, such as investments and generativity, especially for older adults. 
+
+![screen reader text](male_cycle.jpg "male")
