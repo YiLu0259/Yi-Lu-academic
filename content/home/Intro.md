@@ -10,7 +10,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: I study the developmental psychology of one's temporal and social self
+title: 
+subtitle: I study the developmental psychology of one's temporal and social self
 
 design:
   background:
@@ -19,7 +20,7 @@ design:
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0.6
     #  Options are `cover` (default), `contain`, or `actual` size.
-    image_size: actual
+    image_size: contain
     # Options include `left`, `center` (default), or `right`.
     image_position: center
     # Use a fun parallax-like fixed background effect on desktop? true/false
