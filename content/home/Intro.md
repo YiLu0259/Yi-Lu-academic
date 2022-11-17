@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Developmental Psychology of Self.
+title: Self in Lifespan
 
 design:
   background:
@@ -27,4 +27,4 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true  
 ---
-    
+ I study the developmental psychology of temporal and social self.  
