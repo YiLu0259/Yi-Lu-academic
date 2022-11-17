@@ -10,8 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: 
-subtitle: I study the developmental psychology of one's temporal and social self
+title: I study the developmental psychology of one's temporal and social self
 
 design:
   background:
