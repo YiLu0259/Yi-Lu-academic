@@ -38,4 +38,5 @@ Self-continuity, the perceived connectedness to one’s past and future selves, 
 
 {{% staticref "uploads/GSA2022_poster_Yi.pdf" "new tab" %}}Click to view the POSTER{{% /staticref %}}
 
+![](GSA_2022.jpeg "Me & My Poster!")
 
