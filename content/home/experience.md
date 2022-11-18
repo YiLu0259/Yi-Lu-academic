@@ -12,10 +12,6 @@ weight: 40
 title: Experience
 subtitle:
 
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
-
 design:
   background:
     # Name of image in `assets/media/`.
@@ -30,6 +26,10 @@ design:
     image_parallax: true
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true  
+    
+# Date format for experience
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
     
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
