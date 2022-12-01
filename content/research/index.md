@@ -18,7 +18,7 @@ view: 2
 ![](female_cycle.jpeg " ")
 
 
-My line of research focus on lifespan development in:
+My lines of research focus on lifespan development in:
 
 ### (1) Temporal Self
 My current research focus on the age differences in **temporal self-continuity**, i.e., the psychological connectedness between our current self and a distant past/ future self. Our latest project examined the robustness of such age-related structural differences in self-continuity by involving multiple datasets collected across age groups, time, and countries.
