@@ -2,7 +2,7 @@
 title: "Age Differences in Self-Continuity in Germany and the United States: The
   role of Temporal Direction, Temporal Distance, and Demographics"
 publication_types:
-  - "4"
+  - "2"
 authors:
   - Lu
   - Y.
@@ -10,7 +10,7 @@ authors:
   - D.
   - "& Löckenhoff"
   - C.
-publication: (under review)
+publication: "Journals of Gerontology Series B: Psychological Sciences and Social Sciences "
 abstract: >
   Objectives: Previous research suggests that self-continuity is higher in older
   ages, especially for more distant intervals. This study extends prior work by
