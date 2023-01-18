@@ -39,7 +39,7 @@ superuser: true
 ---
 ...prounced as /ee/. 
 
-I am currently a third year Ph.D. student working in the [Healthy Aging Lab](https://www.human.cornell.edu/hd/research/labs/healthyaging/home) at [Cornell University](https://www.cornell.edu/), U.S. Before that, I got my Bachelar degree at [Peking University](https://english.pku.edu.cn/) in China.
+I am currently a third-year Ph.D. student working in the [Healthy Aging Lab](https://www.human.cornell.edu/hd/research/labs/healthyaging/home) at [Cornell University](https://www.cornell.edu/), U.S. Before that, I got my Bachelar's degree at [Peking University](https://english.pku.edu.cn/) in China.
 My research focus on **lifespan development**, especially people's aging process in **self-concepts** and **social relations**, and **decision-making outcomes**. 
 
 In parallel to my research, I serve as a member of the Grad Student Committe at Psych Department, Cornell, and work as a mentor for Extended Project Qualification (EPQ), assisting high school students on their first social science project. 
