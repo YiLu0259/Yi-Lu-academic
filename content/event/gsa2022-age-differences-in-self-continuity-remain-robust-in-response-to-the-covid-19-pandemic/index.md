@@ -1,5 +1,5 @@
 ---
-title: "[GSA2022] Age Differences in Self-continuity Remain Robust in Response
+title: "[GSA 2022] Age Differences in Self-continuity Remain Robust in Response
   to the Covid-19 Pandemic "
 abstract: Findings suggest that even though future self-continuity was lower
   during the pandemic, existing age-related differences in temporal
