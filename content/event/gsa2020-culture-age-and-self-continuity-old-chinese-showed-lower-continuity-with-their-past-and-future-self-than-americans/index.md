@@ -1,5 +1,5 @@
 ---
-title: "[GSA2020] Culture, Age and Self-Continuity Old Chinese Showed Lower
+title: "[GSA 2020] Culture, Age and Self-Continuity Old Chinese Showed Lower
   Continuity with Their Past and Future Self than Americans"
 abstract: >
   We found in both countries, self-continuity decreased with temporal distance
