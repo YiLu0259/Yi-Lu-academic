@@ -11,7 +11,7 @@ date_end: 2020-11-04T20:00:00.000Z
 all_day: false
 event: 2020 GSA conference
 event_url: https://www.geron.org/
-publishDate: 2022-11-06T19:06:03.869Z
+publishDate: 2020-11-04T19:06:03.869Z
 draft: false
 featured: false
 image:
