@@ -11,6 +11,6 @@ design:
     image_darken: 1
     image: dandi-banner-design.jpeg
     image_size: contain
-    image_parallax: false
+    image_parallax: true
 ---
-<center><a class="twitter-timeline" data-width="500" data-height="300" href="https://twitter.com/YiLu08121831?ref_src=twsrc%5Etfw">Tweets by Yi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+<center><a class="twitter-timeline" data-width="700" data-height="300" href="https://twitter.com/YiLu08121831?ref_src=twsrc%5Etfw">Tweets by Yi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
