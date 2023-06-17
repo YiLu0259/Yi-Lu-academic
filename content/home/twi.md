@@ -8,8 +8,8 @@ design:
   columns: "1"
   background:
     text_color_light: false
-    image_darken: 0
-    image: diversity_banner.png
+    image_darken: 1
+    image: dandi-banner-design.jpeg
     image_size: contain
     image_parallax: false
 ---
