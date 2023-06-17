@@ -9,7 +9,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: generations.webp
+    image: diversity_banner.png
     image_size: contain
     image_parallax: false
 ---
