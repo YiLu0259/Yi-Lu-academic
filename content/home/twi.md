@@ -8,7 +8,7 @@ design:
   columns: "1"
   background:
     text_color_light: false
-    image_darken: 1
+    image_darken: 0.4
     image: diversity_banner.png
     image_size: contain
     image_parallax: false
