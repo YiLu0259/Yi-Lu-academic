@@ -11,6 +11,6 @@ design:
     image_darken: 0.4
     image: diversity_banner.png
     image_size: cover
-    image_parallax: false
+    image_parallax: true
 ---
 <center><a class="twitter-timeline" data-width="700" data-height="300" href="https://twitter.com/YiLu08121831?ref_src=twsrc%5Etfw">Tweets by Yi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
