@@ -7,7 +7,7 @@ title: I study the developmental psychology of self
 active: true
 design:
   background:
-    image: matches.jpeg
+    image: matches.png
     image_darken: 1
     image_size: cover
     image_position: center
