@@ -9,7 +9,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: human-life-cycle.png
+    image: generations.webp
     image_size: contain
     image_parallax: false
 ---
