@@ -9,7 +9,7 @@ design:
   background:
     text_color_light: false
     image_darken: 1
-    image: dandi-banner-design.jpeg
+    image: diversity_banner.png
     image_size: contain
     image_parallax: false
 ---
