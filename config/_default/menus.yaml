@@ -12,7 +12,7 @@ main:
     weight: 20
   - name: Publication
     url: publication/
- #   weight: 30
+    weight: 30
  # - name: Talk
  #   url: '#talks'
  #   weight: 40
