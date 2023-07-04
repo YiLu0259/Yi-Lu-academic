@@ -11,14 +11,14 @@ main:
     url: research/
     weight: 20
   - name: Publication
-    url: '#publication'
-    weight: 30
-  - name: Talk
-    url: '#talks'
-    weight: 40
-  - name: Project
-    url: '#projects'
-    weight: 50
+    url: publication/
+ #   weight: 30
+ # - name: Talk
+ #   url: '#talks'
+ #   weight: 40
+ # - name: Project
+ #   url: '#projects'
+ #   weight: 50
   - name: Teaching
     url: teaching/
     weight: 60
