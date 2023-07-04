@@ -23,9 +23,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: Peking University
-    company_url: ''
-    location: China
+    company: Bronfenbrenner Center, Cornell University
+    company_url: 'https://www.human.cornell.edu/people/kap6'
+    location: NY, US
+    date_start: '2023-08-21'
+    date_end: '2023-12-01'
+  
+  - title: Research Assistant
+    company: Lifespan Developmental Lab, Peking University
+    company_url: 'https://www.psy.pku.edu.cn/english/people/faculty/associate_professor/xinzhang/index.htm'
+    location: Beijing, China
     date_start: '2017-09-01'
     date_end: '2020-07-01'
     description: |2-
@@ -34,9 +41,9 @@ experience:
         * Honor thesis on a cross-cultural comparison study of Chinese and Americans' self-continuity across age
 
   - title: Research Assistant
-    company: Brown University
-    company_url: ''
-    location: RI
+    company: Perception, Action & Cognition Lab, Brown University
+    company_url: 'https://research.clps.brown.edu/songlab/'
+    location: RI, US
     date_start: '2019-06-26'
     date_end: '2019-09-01'
     description: |2-
@@ -46,9 +53,9 @@ experience:
 
     
   - title: Research Assistant
-    company: Yale University
-    company_url: ''
-    location: CT
+    company: Affective Science and Culture Lab, Yale University
+    company_url: 'https://asclab.yale.edu/'
+    location: CT, US
     date_start: '2019-07-01'
     date_end: '2019-10-01'
     description: Conducted natural language meaning analysis using Meaning Extraction Helper and ZhToken.
