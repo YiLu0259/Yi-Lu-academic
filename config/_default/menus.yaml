@@ -10,18 +10,24 @@ main:
   - name: Research
     url: research/
     weight: 20
-  - name: Publications
+  - name: Publication
     url: publication/
     weight: 30
-  - name: Talks
+  - name: Talk
     url: '#talks'
     weight: 40
-  - name: Projects
-    url: project/
+  - name: Project
+    url: '#projects'
     weight: 50
+  - name: Teaching
+    url: teaching/
+    weight: 60
+  - name: MyLife
+    url: mylife/
+    weight: 70
   - name: CV
     url: uploads/cv_yi.pdf
-    weight: 60
+    weight: 80
 
 
 # Link to a PDF of your resume/CV from the menu.
