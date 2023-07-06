@@ -18,4 +18,4 @@ design:
   
 ---
 ## "... any person ... any study."            
-<p style="text-align: right;">--- Ezra Cornell</p> 
+<p style="text-align: right;">--- <i>Ezra Cornell</i></p> 
