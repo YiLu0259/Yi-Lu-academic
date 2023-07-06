@@ -13,7 +13,7 @@ design:
     image_position: center
     image_parallax: true
     text_color_light: true
-    columns: "1"
+    columns: 1
  content:
   center: true     
 ---
