@@ -15,8 +15,6 @@ design:
     text_color_light: true
     columns: "1"
  content:
-  center:
-    content: |
-      <h1>I study the developmental psychology of self</h1>  
+  center: true     
 ---
-
+<h1>I study the developmental psychology of self</h1>  
