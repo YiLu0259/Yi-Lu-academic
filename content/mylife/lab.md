@@ -1,5 +1,6 @@
 ---
 title: Life Beyond Research
+type: landing
 
 sections:
   - block: features
