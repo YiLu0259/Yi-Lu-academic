@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: blank
 widget_id: my-widget-intro
 headless: true
 weight: 10
@@ -13,8 +13,6 @@ design:
     image_position: center
     image_parallax: true
     text_color_light: true
-    columns: 1
- content:
-  center: true     
+    columns: 1 
 ---
-<h1>I study the developmental psychology of self</h1>  
+## I study the developmental psychology of self
