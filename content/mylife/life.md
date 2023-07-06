@@ -1,18 +1,46 @@
-
-
 ---
-title: Life Beyond Research
-summary: 
-date: "2018-06-28T00:00:00Z"
+widget: portfolio
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
+# This file represents a page section.
+headless: true
 
-view: 2
+# Order that this section appears on the page.
+weight: 10
 
-# Optional header image (relative to `assets/media/` folder).
-  
+title: About Me
+subtitle: ''
+
+content:
+  # Page type to display. E.g. project.
+  page_type: project
+
+  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  filter_default: 0
+
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`filter_button` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove the toolbar, delete the entire `filter_button` block.
+ # filter_button:
+  #  - name: All
+  #    tag: '*'
+  #  - name: Deep Learning
+  #    tag: Deep Learning
+  #  - name: Other
+  #    tag: Demo
+
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '3'
+
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view: 2
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: false
 ---
-Beyond research, I serve as a 
