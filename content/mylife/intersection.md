@@ -15,4 +15,11 @@ design:
     text_color_light: true
     columns: "1"
 
+content:
+  # Centered text
+  center:
+    style: light
+    content: |
+      <h1>Your Centered Text</h1>
+      <p>This is some example text that will be centered on the section.</p>
 ---
