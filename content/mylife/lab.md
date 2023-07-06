@@ -5,7 +5,7 @@ date: "2018-06-28T00:00:00Z"
 
 widget_id: my-widget-lab
 headless: true
-weight: 30
+weight: 20
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -15,7 +15,16 @@ comments: false  # Show comments?
 column: '1'
 view: 3
 
-
+css_style: |
+    @media screen and (max-width: 768px) {
+      .my-widget-lab {
+        height: auto;
+      }
+      .my-widget-lab img {
+        width: 100%;
+        height: auto;
+      }
+    }
   
 ---
 # Healthy Aging Lab
