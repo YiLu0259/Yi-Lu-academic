@@ -3,7 +3,7 @@ widget: blank
 widget_id: my-widget-intro
 headless: true
 weight: 10
-title: Life Within and Beyond
+title: 
 active: true
 design:
   background:
