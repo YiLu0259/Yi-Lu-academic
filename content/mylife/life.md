@@ -4,7 +4,7 @@ type: gallery
 headless: false
 
 # Order that this section appears on the page.
-weight: 10
+weight: 20
 
 title: Gallery
 subtitle: ''
