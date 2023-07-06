@@ -13,18 +13,6 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 column: '1'
-
-css_style: |
-    @media screen and (max-width: 768px) {
-      .my-widget-lab {
-        height: auto;
-      }
-      .my-widget-lab img {
-        width: 100%;
-        height: auto;
-      }
-    }
-  
 ---
 # Healthy Aging Lab
 <!-- Image Gallery -->
