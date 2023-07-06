@@ -3,16 +3,13 @@ title:
 weight: 20
 
 sections:
-  - block: features
+  - block: markdown
     content:
-      title: My Interests
-      subtitle: Section subtitle
-      text: Section text
-      items:
-        - name: R
-          description: 90%
-        - name: Statistics
-          description: 100%
-        - name: Photography
-          description: 10%
+      title: My title
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
 ---
