@@ -1,5 +1,7 @@
+
+
 ---
-title: MyLife
+title: Life Beyond Research
 summary: 
 date: "2018-06-28T00:00:00Z"
 
@@ -11,7 +13,6 @@ comments: false  # Show comments?
 view: 2
 
 # Optional header image (relative to `assets/media/` folder).
-
-  
   
 ---
+Beyond research, I serve as a 
