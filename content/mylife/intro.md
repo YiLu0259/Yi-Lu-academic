@@ -14,6 +14,6 @@ design:
     image_parallax: false
     text_color_light: true
     columns: "1"
-    height: 1000px
+    height: "500px"
     
 ---
