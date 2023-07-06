@@ -10,7 +10,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-column: 1
+column: '1'
 view: 3
 
 
