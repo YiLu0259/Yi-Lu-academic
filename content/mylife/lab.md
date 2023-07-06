@@ -1,15 +1,19 @@
 ---
-title: 
-weight: 20
+title: Lab Members
+summary: 
+date: "2018-06-28T00:00:00Z"
 
-sections:
-  - block: markdown
-    content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+weight: 10
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+column: 1
+view: 3
+
+
+  
 ---
+![](HALab2023.jpeg " ")
