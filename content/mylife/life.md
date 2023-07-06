@@ -1,6 +1,6 @@
 ---
 title: Picture Gallery
-type: widget_page
+type: gallery
 headless: false
 
 # Order that this section appears on the page.
@@ -23,4 +23,4 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-{{< gallery album="gallery" resize_options="250x250" >}}
+{{< gallery album="gallery" >}}
