@@ -29,10 +29,10 @@ view: 3
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    Your text goes here.
+    Beyond Healthy Aging Lab, I also served as a member of the Graduate Student Committee of the Psychology Department and of Diversity and International Students Committee, Graduate and Professional Student Assembly.  
   </div>
   <div style="flex: 1;">
-    ![GSC2022](GSC.png)
+    <img src="GSC.png">
   </div>
 </div>
 
