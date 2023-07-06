@@ -3,7 +3,7 @@ widget: blank
 widget_id: my-widget-intro
 headless: true
 weight: 10
-title: 
+title: Life in and out of Lab
 active: true
 design:
   background:
