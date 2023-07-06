@@ -1,7 +1,7 @@
 ---
 widget: blank
 widget_id: my-widget-intro
-headless: true
+headless: false
 weight: 10
 title: 
 active: true
