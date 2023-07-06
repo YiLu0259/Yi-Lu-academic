@@ -1,5 +1,5 @@
 ---
-widget: feature
+widget: pages
 headless: true
 weight: 30
 design:
