@@ -3,7 +3,7 @@ widget: blank
 widget_id: my-widget-intro
 headless: true
 weight: 10
-title: Life in and out of Lab
+title:
 active: true
 design:
   background:
@@ -16,3 +16,4 @@ design:
     columns: "1"
 
 ---
+# Life within and beyond Research
