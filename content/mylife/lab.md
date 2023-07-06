@@ -38,7 +38,7 @@ view: 3
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-      <img src="GSC.png">
+      <img src="cats.jpg">
   </div>
   <div style="flex: 1;">
     I also work as a volunteering mentor for Extended Project Qualification, assisting high school students with their first social science projects. During my leisure, I enjoy spending time with my cats, handcrafting, and hiking. 
