@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: my-widget-intro
+widget_id: my-widget-introduction
 headless: true
 weight: 40
 title: 
