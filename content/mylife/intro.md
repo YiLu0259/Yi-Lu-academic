@@ -3,7 +3,7 @@ widget: blank
 widget_id: my-widget-intro
 headless: true
 weight: 20
-title: Life Beyond Research
+title: Life Beyond Research          
 active: true
 design:
   background:
@@ -14,5 +14,5 @@ design:
     image_parallax: false
     text_color_light: true
     columns: "1"
-    css_style: "padding-bottom: 100px;"
+
 ---
