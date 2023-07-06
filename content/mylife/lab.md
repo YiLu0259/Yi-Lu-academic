@@ -1,6 +1,7 @@
 ---
 title: Life Beyond Research
 weight: 20
+type: landing
 
 sections:
   - block: features
