@@ -7,7 +7,7 @@ title:
 active: true
 design:
   background:
-    image: Immersion2023.jpeg
+    image: cornell campus.jpeg
     image_darken: 0.5
     image_size: cover
     image_position: top
