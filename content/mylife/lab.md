@@ -1,5 +1,5 @@
 ---
-title: Health Aging Lab
+title:
 summary: 
 date: "2018-06-28T00:00:00Z"
 
@@ -16,10 +16,11 @@ view: 3
 
   
 ---
+# Healthy Aging Lab
 <!-- Image Gallery -->
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="HALab2023.jpeg" alt="Lab gathering 2023" style="width: 60%;">
-    <img src="HALab2022.jpeg" alt="Lab gathering 2022" style="width: 60%;">
+  <img src="HALab2023.jpeg" alt="Lab gathering 2023" style="width: 50%; margin: 5px;">
+  <img src="HALab2022.jpeg" alt="Lab gathering 2022" style="width: 50%; margin: 5px;">
 </div>
 <!-- End of Image Gallery -->
 
