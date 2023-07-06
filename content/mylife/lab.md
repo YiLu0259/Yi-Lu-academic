@@ -25,22 +25,22 @@ view: 3
 <!-- End of Image Gallery -->
 
 # Life Beyond Work
-<!-- Section with Text on Left and Image on Right -->
-
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    In parallel to my research, I serve as a member of the Graduate Student Committee in the Psychology Department, and a member of the Diversity and International Students Committee in the Graduate and Professional Student Assembly.
+  <div style="flex: 1; margin-right: 10px;">
+    In parallel to my research, I serve as a member of the Graduate Student Committee in the Psychology Department and a member of the Diversity and International Students Committee in the Graduate and Professional Student Assembly.
   </div>
   <div style="flex: 1;">
-    <img src="GSC.png" style="margin: 5px;">
+    <img src="GSC.png" style="margin-left: 10px;">
   </div>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px;">
   <div style="flex: 1;">
-      <img src="cats.jpg" style="margin: 5px;">
+      <img src="cats.jpg" style="margin-right: 10px;">
   </div>
   <div style="flex: 1;">
     I also work as a volunteering mentor for Extended Project Qualification, assisting high school students with their first social science projects. During my leisure, I enjoy spending time with my cats, handcrafting, and hiking. 
+  </div>
 </div>
-<!-- End of Section -->
+
+
