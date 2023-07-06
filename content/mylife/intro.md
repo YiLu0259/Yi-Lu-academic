@@ -3,7 +3,7 @@ widget: blank
 widget_id: my-widget-intro
 headless: true
 weight: 20
-title: Life Beyond Research          
+title: Life Beyond Research
 active: true
 design:
   background:
