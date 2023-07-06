@@ -1,5 +1,5 @@
 ---
-title: Lab
+title: Life Beyond Research
 summary: 
 date: "2018-06-28T00:00:00Z"
 
@@ -10,5 +10,9 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-column: 1
+column: 2
 ---
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Content  | Content  | Content  |
+| Content  | Content  | Content  |
