@@ -14,4 +14,5 @@ design:
     image_parallax: false
     text_color_light: true
     columns: "1"
+    css_style: "padding-bottom: 100px;"
 ---
