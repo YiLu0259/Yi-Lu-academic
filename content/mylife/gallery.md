@@ -1,6 +1,6 @@
 ---
 title: Picture Gallery
-type: gallery
+type: pages
 headless: false
 
 # Order that this section appears on the page.
