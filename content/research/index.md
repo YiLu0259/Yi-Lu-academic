@@ -3,6 +3,8 @@ title: Research
 summary: 
 date: "2018-06-28T00:00:00Z"
 
+widget: 10
+
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
