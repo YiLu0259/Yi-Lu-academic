@@ -3,7 +3,7 @@ widget: blank
 widget_id: my-widget-intro
 headless: true
 weight: 10
-title: I study the developmental psychology of self
+title: 
 active: true
 design:
   background:
@@ -15,3 +15,4 @@ design:
     text_color_light: true
     columns: "1"
 ---
+## I study the developmental psychology of self
