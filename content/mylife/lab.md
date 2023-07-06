@@ -1,18 +1,23 @@
 ---
 title: Life Beyond Research
-summary: 
-date: "2018-06-28T00:00:00Z"
 
-weight: 25
-
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
-
-column: 2
+sections:
+  - block: features
+    content:
+      title: My Interests
+      subtitle: Section subtitle
+      text: Section text
+      items:
+        - name: R
+          description: 90%
+          icon: r-project
+          icon_pack: fab
+        - name: Statistics
+          description: 100%
+          icon: chart-line
+          icon_pack: fas
+        - name: Photography
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
 ---
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Content  | Content  | Content  |
-| Content  | Content  | Content  |
