@@ -1,13 +1,13 @@
 ---
 title: Picture Gallery
-type: pages
+type: gallery
 headless: false
 
 # Order that this section appears on the page.
 weight: 40
 
 title: Gallery
-subtitle: ''
+subtitle: 'click photos to see!'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
