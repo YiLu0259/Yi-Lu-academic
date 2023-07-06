@@ -13,7 +13,6 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 column: '1'
-view: 3
 
 css_style: |
     @media screen and (max-width: 768px) {
