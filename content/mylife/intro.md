@@ -3,13 +3,13 @@ widget: blank
 widget_id: my-widget-intro
 headless: true
 weight: 10
-title: My Life
+title: 
 active: true
 design:
   background:
     image: Immersion2023.jpeg
     image_darken: 0.5
-    image_size: cover
+    image_size: contain
     image_position: top
     image_parallax: false
     text_color_light: true
