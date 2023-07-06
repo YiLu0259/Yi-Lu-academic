@@ -3,7 +3,7 @@ widget: blank
 widget_id: my-widget-intro
 headless: true
 weight: 10
-title:
+title: My Life
 active: true
 design:
   background:
@@ -16,7 +16,3 @@ design:
     columns: "1"
 
 ---
-
-#
-#
-# Life within and beyond Research
