@@ -17,4 +17,4 @@ design:
     columns: "1"
   
 ---
-## "... any person ... any study."  --- Ezra Cornell
+## "... any person ... any study."            --- Ezra Cornell
