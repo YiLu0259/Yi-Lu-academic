@@ -3,7 +3,9 @@ title:
 summary: 
 date: "2018-06-28T00:00:00Z"
 
-weight: 20
+widget_id: my-widget-lab
+headless: true
+weight: 30
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
