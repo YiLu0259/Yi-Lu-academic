@@ -18,9 +18,14 @@ view: 3
 ---
 <!-- Image Gallery -->
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="HALab2023.jpeg" alt="Healthy Aging Lab gathering 2023" style="width: 50%; margin: 5px;">
-  <img src="HALab2022.jpeg" alt="Healthy Aging Lab gathering 2022" style="width: 50%; margin: 5px;">
+  <div style="text-align: center; margin: 5px;">
+    <img src="HALab2023.jpeg" alt="Lab gathering 2023" style="width: 33%;">
+    <p>Healthy Aging Lab gathering 2023</p>
+  </div>
+  <div style="text-align: center; margin: 5px;">
+    <img src="HALab2022.jpeg" alt="Lab gathering 2022" style="width: 33%;">
+    <p>Healthy Aging Lab gathering 2022</p>
+  </div>
 </div>
 <!-- End of Image Gallery -->
-
 
