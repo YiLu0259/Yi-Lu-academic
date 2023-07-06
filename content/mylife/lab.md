@@ -24,3 +24,16 @@ view: 3
 </div>
 <!-- End of Image Gallery -->
 
+# Student Activities
+<!-- Section with Text on Left and Image on Right -->
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    Your text goes here.
+  </div>
+  <div style="flex: 1;">
+    ![GSC2022](GSC.png)
+  </div>
+</div>
+
+<!-- End of Section -->
