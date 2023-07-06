@@ -15,4 +15,4 @@ design:
     text_color_light: true
     columns: "1"
 ---
-## I study the developmental psychology of self
+# I study the developmental psychology of self
