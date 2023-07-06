@@ -1,4 +1,4 @@
-
+---
 widget: feature
 headless: true
 weight: 20
@@ -10,7 +10,6 @@ design:
     image_parallax: true
     image_position: right
     image_size: cover
-
 content:
   # Text on the left, Image on the right
   - align: left
@@ -20,7 +19,6 @@ content:
     image_alt: Image 1
     text: |
       This is some example text on the left side of the section.
-
   # Text on the right, Image on the left
   - align: right
     title: Text on the Right
@@ -29,3 +27,4 @@ content:
     image_alt: Image 2
     text: |
       This is some example text on the right side of the section.
+---
