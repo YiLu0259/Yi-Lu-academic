@@ -24,16 +24,23 @@ view: 3
 </div>
 <!-- End of Image Gallery -->
 
-# Student Activities
+# Life Beyond Work
 <!-- Section with Text on Left and Image on Right -->
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    Beyond Healthy Aging Lab, I also served as a member of the Graduate Student Committee of the Psychology Department and of Diversity and International Students Committee, Graduate and Professional Student Assembly.  
+    In parallel to my research, I serve as a member of the Graduate Student Committee in the Psychology Department, and a member of the Diversity and International Students Committee in the Graduate and Professional Student Assembly.
   </div>
   <div style="flex: 1;">
     <img src="GSC.png">
   </div>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+      <img src="GSC.png">
+  </div>
+  <div style="flex: 1;">
+    I also work as a volunteering mentor for Extended Project Qualification, assisting high school students with their first social science projects. During my leisure, I enjoy spending time with my cats, handcrafting, and hiking. 
+</div>
 <!-- End of Section -->
