@@ -17,4 +17,5 @@ design:
     columns: "1"
   
 ---
-## "... any person ... any study."            --- Ezra Cornell
+## "... any person ... any study."            
+<p style="text-align: right;">--- Ezra Cornell</p> 
