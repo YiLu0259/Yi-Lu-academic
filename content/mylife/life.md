@@ -1,8 +1,7 @@
 ---
-widget: gallery
-
-# This file represents a page section.
-headless: true
+title: Picture Gallery
+type: widget_page
+headless: false
 
 # Order that this section appears on the page.
 weight: 10
