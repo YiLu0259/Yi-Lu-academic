@@ -2,9 +2,10 @@
 widget: blank
 widget_id: my-widget-intro
 headless: true
-weight: 30
+weight: 40
 title: 
 active: true
+
 design:
   background:
     image: cornell campus.jpeg
@@ -16,4 +17,4 @@ design:
     columns: "1"
   
 ---
-> "... any person ... any study."  --- Ezra Cornell
+## "... any person ... any study."  --- Ezra Cornell
