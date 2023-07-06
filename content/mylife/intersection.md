@@ -16,5 +16,5 @@ design:
     columns: "1"  
 ---
 ## "The good life is a process, not a state of being."            
-<p style="text-align: right;">---Carl Rogers</p>
+
 
