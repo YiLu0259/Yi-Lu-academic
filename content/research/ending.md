@@ -12,7 +12,7 @@ design:
     image_darken: 0.5
     image_size: cover
     image_position: top
-    image_parallax: true
+    image_parallax: false
     text_color_light: true
     columns: "1"
   
