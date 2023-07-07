@@ -9,7 +9,7 @@ design:
   background:
     image: CornellWinter.jpeg
     image_darken: 0.5
-    image_size: cover
+    image_size: contain
     image_position: top
     image_parallax: true
     text_color_light: true
