@@ -74,6 +74,6 @@ sitemap:
 
 widget:
   gallery:
-    - name: "my-gallery"
+    - name: "gallery"
       view: "grid"
       columns: 3
