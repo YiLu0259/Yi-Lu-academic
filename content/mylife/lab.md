@@ -1,5 +1,5 @@
 ---
-title:
+title: Healthy Aging Lab
 summary: 
 date: "2018-06-28T00:00:00Z"
 
@@ -14,7 +14,7 @@ comments: false  # Show comments?
 
 column: '1'
 ---
-# Healthy Aging Lab
+# Life in Lab
 <!-- Image Gallery -->
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="HALab2023.jpeg" alt="Lab gathering 2023" style="width: 70%; margin: 0px;">
