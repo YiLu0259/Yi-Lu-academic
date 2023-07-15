@@ -70,3 +70,10 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+
+widget:
+  gallery:
+    - name: "my-gallery"
+      view: "grid"
+      columns: 3
