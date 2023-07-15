@@ -17,7 +17,7 @@ column: '1'
 # Healthy Aging Lab
 <!-- Image Gallery -->
 ![](HALab2023.jpeg " ")
-![](HALad2022.jpeg " ")
+![](HALab2022.jpeg " ")
 <!-- End of Image Gallery -->
 
 # Life Beyond Work
