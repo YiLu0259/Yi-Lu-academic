@@ -16,8 +16,8 @@ column: '1'
 ---
 # Healthy Aging Lab
 <!-- Image Gallery -->
-  <img src="HALab2023.jpeg" alt="Lab gathering 2023" style="width: 70%; margin: 0px;">
-  <img src="HALab2022.jpeg" alt="Lab gathering 2022" style="width: 70%; margin: 0px;">
+![](HALab2023.jpeg " ")
+![](HALad2022.jpeg " ")
 <!-- End of Image Gallery -->
 
 # Life Beyond Work
