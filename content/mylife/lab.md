@@ -18,9 +18,9 @@ column: '1'
 <!-- Image Gallery -->
 <div style="justify-content: center; align-items: center; height: 100vh;">
   <img src="HALab2023.jpeg" alt="Lab gathering 2023">
-  <figcaption>Lab gathering 2023</figcaption>
+  <center>Lab gathering 2023</center>
   <img src="HALab2022.jpeg" alt="Lab gathering 2022">
-  <figcaption>Lab gathering 2023</figcaption>
+  <center>Lab gathering 2023</center>
 </div>
 <!-- End of Image Gallery -->
 
