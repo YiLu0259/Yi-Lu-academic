@@ -20,7 +20,7 @@ column: '1'
   <img src="HALab2023.jpeg" alt="Lab gathering 2023">
   <center>Lab gathering 2023</center>
   <img src="HALab2022.jpeg" alt="Lab gathering 2022">
-  <center>Lab gathering 2023</center>
+  <center>Lab gathering 2022</center>
 </div>
 <!-- End of Image Gallery -->
 
