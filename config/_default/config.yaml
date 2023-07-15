@@ -71,9 +71,8 @@ security:
 sitemap:
   _merge: deep
 
-
 widget:
   gallery:
-    - name: "gallery"
+    - album: "gallery"
       view: "grid"
       columns: 3
