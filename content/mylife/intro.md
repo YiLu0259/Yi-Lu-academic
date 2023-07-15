@@ -3,7 +3,7 @@ widget: blank
 widget_id: my-widget-intro
 headless: false
 weight: 10
-title: 
+title: Life and People
 active: true
 design:
   background:
