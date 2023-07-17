@@ -16,7 +16,7 @@ column: '1'
 ---
 # Healthy Aging Lab
 <!-- Image Gallery -->
-<div style="justify-content: center; align-items: center; height: 100vh;">
+<div style="justify-content: center; align-items: center; height: 70vh;">
   <img src="HALab2023.jpeg" alt="Lab gathering 2023">
   <center>Lab gathering 2023</center>
   <img src="HALab2022.jpeg" alt="Lab gathering 2022">
