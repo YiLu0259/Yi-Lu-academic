@@ -18,7 +18,7 @@ column: '1'
 
 In parallel to my research, I serve as a member of the Graduate Student Committee in the Psychology Department, a teaching fellow at the Center for Teaching Innovation (CTI), and a member of the Diversity and International Students Committee (DISC) in the Graduate and Professional Student Assembly.
 
- ![](CTI.jpg "2023-24 CTI Teaching Fellows")
+ ![](CTI.JPG "2023-24 CTI Teaching Fellows")
 
 I also work as a volunteering mentor for Extended Project Qualification, assisting high school students with their first social science projects. 
 
