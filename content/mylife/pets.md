@@ -20,7 +20,7 @@ In parallel to my research, I serve as a member of the Graduate Student Committe
 
  ![](CTI.JPG "2023-24 CTI Teaching Fellows")
 
-I also work as a volunteering mentor for Extended Project Qualification, assisting high school students with their first social science projects. 
+I also work as a graduate mentor in the Graduate Students Mentoring Undergraduates program directed by the Office of Academic Diversity Initiatives at Cornell, and a mentor for Extended Project Qualification in Beijing, China, assisting high school students with their first social science projects. 
 
 During my leisure, I enjoy spending time with my cats, handcrafting, and hiking. 
  ![](cats.jpg "My fellow pack members!")
