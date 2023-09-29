@@ -15,7 +15,7 @@ comments: false  # Show comments?
 column: '1'
 ---
 # Healthy Aging Lab
-With a group of talented emerging scholars in the Healthy Aging Lab at Cornell, from around the country and the globe, We are united by our interest in the socioemotional and cognitive factors that influence health-related behaviors and decisions across the lifespan.
+I enjoy the great pleasure of working with a group of talented emerging scholars in the Healthy Aging Lab at Cornell, from around the country and the globe. We are united by our interest in the socioemotional and cognitive factors that influence health-related behaviors and decisions across the lifespan. 
 
 <!-- Image Gallery -->
   <img src="HALab2023.jpeg" alt="Lab gathering 2023" height="200">
