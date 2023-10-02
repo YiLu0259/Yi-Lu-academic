@@ -1,5 +1,6 @@
 ---
-title: Age differences in social discounting and charitable giving in a U.S. sample
+title: "[GSA 2023] Age differences in social discounting and charitable giving
+  in a U.S. sample"
 abstract: Social discounting describes the tendency to show less generosity to
   the more socially distant recipient. We found that contrary to previous
   findings, advanced age was associated with higher social discounting rates,
