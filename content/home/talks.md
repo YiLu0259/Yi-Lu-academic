@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: 'Talks'
+title: 'Presentations & Talks'
 subtitle:
 
 content:
