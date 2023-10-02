@@ -1,5 +1,6 @@
 ---
 title: Age Differences in Social Discounting
+subtitle: Age differences in social discounting and charitable giving in a U.S. sample
 date: 2023-07-04T21:18:11.624Z
 draft: false
 featured: false
