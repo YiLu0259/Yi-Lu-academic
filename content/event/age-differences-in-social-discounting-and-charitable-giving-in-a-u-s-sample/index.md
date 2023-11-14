@@ -14,10 +14,6 @@ event_url: https://www.geron.org/
 publishDate: 2023-10-02T19:10:35.483Z
 draft: false
 featured: false
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
 ---
 *A﻿bstract:*
 
