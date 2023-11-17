@@ -13,7 +13,7 @@ social:
       header: false
     icon_pack: fab
     icon: twitter
-    link: https://twitter.com/YiLu08121831
+    link: https://twitter.com/YiLu_lois
   - display:
       header: false
     link: https://www.linkedin.com/in/yi-lu-352895213/
@@ -39,6 +39,6 @@ superuser: true
 ---
 pronounced as /ee/. 
 
-I am currently a forth-year Ph.D. candidate in the [Healthy Aging Lab](https://www.human.cornell.edu/hd/research/labs/healthyaging/home) at [Cornell University](https://www.cornell.edu/), U.S. Before that, I got my Bachelar's degree at [Peking University](https://english.pku.edu.cn/) in China.
+I am currently a fourth-year Ph.D. candidate in the [Healthy Aging Lab](https://www.human.cornell.edu/hd/research/labs/healthyaging/home) at [Cornell University](https://www.cornell.edu/), U.S. Before that, I got my Bachelar's degree at [Peking University](https://english.pku.edu.cn/) in China.
 My research focuses on **lifespan development**, especially age-related differences in **self-concepts**, **social relations**, and **decision-making outcomes**. 
 
