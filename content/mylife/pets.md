@@ -28,6 +28,6 @@ I am a teaching fellow at [the Center for Teaching Innovation (CTI)](https://tea
 
  ![](CTI.JPG "2023-24 CTI Teaching Fellows")
 
-
+## For Fun!
 During my leisure, I enjoy spending time with my cats, handcrafting, and hiking. 
  ![](cats.jpg "My fellow pack members!")
