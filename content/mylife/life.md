@@ -19,7 +19,7 @@ column: '1'
 In parallel to my research, I serve as a senior graduate student representative in the Graduate Student Committee in the Psychology Department and as a founding member of the Diversity and International Students Committee (DISC) in the [Graduate and Professional Student Assembly](https://assembly.cornell.edu/shared-governance-cornell/graduate-and-professional-student-assembly).
 
 ![](GSC.png)
-![](DISC.JPG "DISC members")
+![](DISC.jpg "DISC members")
 
 
 ## Teaching & Mentoring
