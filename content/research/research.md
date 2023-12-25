@@ -33,9 +33,9 @@ I’m also interested in the extended self in social relations. **Social distanc
 ### (3) Decision-Making
 A deeper understanding of our temporally and socially extended selves can ultimately help us to improve real-life decisions, such as saving, investments, and charity giving, especially for older adults. I'm particularly interested in two patterns of decision-making. 
 
-- **Temporal discounting** refers to the phenomenon in intertemporal choices that delayed rewards are subjectively devalued as time delay increases, which is closely related to one's future benefits. Our recent work examined the association between self-continuity and temporal discounting. 
+- **Temporal discounting** refers to the phenomenon in intertemporal choices where delayed rewards are subjectively devalued as time delay increases, closely related to one's future benefits. Our recent work examined the association between self-continuity and temporal discounting. 
 
-- **Social discounting** appears when people tend to benefit others according to the perceived social distance. For example, you are more likely to fund your family and friends than a random stranger on the street. We are currently conducting a cross-cultural survey on age-related differences in social discounting. 
+- **Social discounting** appears when people tend to benefit others according to the perceived social distance. For example, people are more likely to fund their family and friends than a random stranger on the street. We are currently conducting a cross-cultural survey on age-related differences in social discounting. 
 
 ![](decision.jpeg " ")
 
