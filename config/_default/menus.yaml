@@ -22,8 +22,8 @@ main:
  # - name: Teaching
  #   url: teaching/
  #   weight: 60
-  - name: MyLife
-    url: mylife/
+  - name: Outreach
+    url: outreach/
     weight: 70
   - name: CV
     url: uploads/cv_yi.pdf
