@@ -3,7 +3,7 @@ title: Teaching
 summary: 
 date: "2018-06-28T00:00:00Z"
 
-weight: 10
+weight: 60
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
