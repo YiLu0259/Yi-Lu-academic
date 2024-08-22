@@ -1,5 +1,4 @@
 ---
----
 widget: blank
 widget_id: my-widget-intro
 headless: false
