@@ -7,7 +7,7 @@ title: Teaching Philosophy
 active: true
 design:
   background:
-    image: BFF2024-2.JPG
+    image: BFF2024.JPG
     image_darken: 0.5
     image_size: cover
     image_position: top
