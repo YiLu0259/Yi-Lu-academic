@@ -26,7 +26,7 @@ padlet_embed:
     height: "352px"
     max-width: "100%"
   iframe:
-    src: "https://padlet.com/padlets/hp6zaqwwhw0dh9fk/embeds/preview_embed"
+    src: "https://padlet.com/yl3358/world-map-of-human-development-hp6zaqwwhw0dh9fk"
     style: 
       width: "100%"
       height: "100%"
