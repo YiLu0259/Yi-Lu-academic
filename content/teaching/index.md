@@ -17,5 +17,3 @@ view: 2
 ---
 
 
-
-My teaching focus on lifespan development in:
