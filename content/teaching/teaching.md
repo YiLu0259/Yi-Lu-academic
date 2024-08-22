@@ -17,4 +17,4 @@ view: 3
  
 ---
 
-<center><a class="padlet-embed" data-width="700" data-height="300" href="https://padlet.com/yl3358/world-map-of-human-development-hp6zaqwwhw0dh9fk">Map of Human Developemnt by HD1130</a> <script async src="https://padlet.com/padlets/hp6zaqwwhw0dh9fk/embeds/preview_embed" charset="utf-8"></script></center>
+<center><a class="padlet-embed" data-width="700" data-height="300" href="https://padlet.com/yl3358/world-map-of-human-development-hp6zaqwwhw0dh9fk">Map of Human Developemnt by HD1130</a> <script async src="https://padlet.com/embed/hp6zaqwwhw0dh9fk" charset="utf-8"></script></center>
