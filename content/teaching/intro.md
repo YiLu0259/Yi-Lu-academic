@@ -21,11 +21,12 @@ As a developmental psychologist and gerontologist, my teaching philosophy is cen
 - **Independent**. I believe that autonomy in learning is crucial for students’ success in transitioning from high school to undergraduate and graduate studies. To achieve this goal, *scaffolding* is necessary, and the foundation of scaffolding is to create a secure attachment between the instructor and students.
 - **Integrative**. I am committed to designing integrative courses (Fink, 2005) via pedagogical and psychological methods. An integrative course combines reinforcement among learning goals, teaching/learning activities, and feedback/assessments with attention to situational factors.
 
-Scroll down to learn more about my Teaching Portfolio!\
  \
  \
  \
  \
+Scroll down to learn more about my Teaching Portfolio!
+
 
 
 
