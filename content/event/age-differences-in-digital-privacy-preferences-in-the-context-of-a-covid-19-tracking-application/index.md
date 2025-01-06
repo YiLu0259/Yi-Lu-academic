@@ -13,6 +13,11 @@ event_url: https://cumotivationandemotion.psy.cuhk.edu.hk/conference/call-for-ab
 publishDate: 2023-12-21T16:16:32.923Z
 draft: false
 featured: false
+authors:
+  - Yi Lu
+  - Julia Nolte
+  - Stephanie L. Deng
+  - Corinna E. Löckenhoff
 image:
   filename: featured
   focal_point: Smart
