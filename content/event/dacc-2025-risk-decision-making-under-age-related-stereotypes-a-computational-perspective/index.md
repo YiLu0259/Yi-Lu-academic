@@ -13,7 +13,7 @@ abstract: >-
   Results indicated significant age differences in learning rates. Moreover, older adults receiving positive stereotypes hold lower prior beliefs of risk compared to those receiving negative and neutral information, and were more risk averse than younger adults.
 
   Discussion emphasized how computational models can advance the understanding of cognitive underpinnings in risk decision-making under age-related stereotypes.
-location: Dallas
+location: Dallas, TX
 date: 2025-02-20T23:44:21.049Z
 date_end: 2025-02-22T23:44:26.226Z
 all_day: false
