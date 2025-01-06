@@ -26,7 +26,7 @@ abstract: Self-continuity, the perceived connectedness with past and future
   self-continuity. The present study extends our understanding of previously
   reported age differences in self-continuity and temporal discounting but
   suggests that they cannot be traced to the same underlying mechanism.
-location: Seattle
+location: Seattle, WA
 date: 2024-11-16T19:00:01.796Z
 date_end: 2024-11-16T20:00:00.000Z
 all_day: true
@@ -35,8 +35,11 @@ event_url: https://gsa2024.eventscribe.net/
 publishDate: 2024-11-04T15:54:01.804Z
 draft: false
 featured: false
+authors:
+  - Yi Lu
+  - Corinna E. Löckenhoff
 image:
-  filename: featured
+  filename: img_9249.jpg
   focal_point: Smart
   preview_only: false
 ---
