@@ -17,15 +17,18 @@ abstract: Self-continuity, the perceived connectedness with past and future
   self-continuity and neuroticism was no longer significant. Findings expand our
   understanding of the associations between five-factor personality traits and
   perceptions of self-continuity over time.
-location: Denver
+location: Denver, CO
 date: 2025-02-20T23:40:27.919Z
 date_end: 2025-02-22T05:00:00.000Z
 all_day: false
-event: SPSP
+event: The Society of Personality and Social Psychology 2025 Annual Convention
 event_url: https://spsp.org/events/annual-convention
 publishDate: 2025-01-06T23:40:27.926Z
 draft: false
 featured: false
+authors:
+  - Yi Lu
+  - Corinna E. Löckenhoff
 image:
   filename: featured
   focal_point: Smart
