@@ -39,7 +39,8 @@ authors:
   - Yi Lu
   - Corinna E. Löckenhoff
 image:
-  filename: img_9249.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
+![](img_9249.jpg)
