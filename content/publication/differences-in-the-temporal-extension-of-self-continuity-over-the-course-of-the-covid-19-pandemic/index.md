@@ -4,7 +4,9 @@ title: Differences in the Temporal Extension of Self-Continuity Over the Course
 publication_types:
   - "2"
 authors:
-  - Lu & Löckenhoff
+  - Lu
+  - Y. & Löckenhoff
+  - C. E.
 doi: doi:10.1080/15298868.2024.2400732
 publication: Self and Identity
 abstract: This study examined whether the average levels and the temporal
