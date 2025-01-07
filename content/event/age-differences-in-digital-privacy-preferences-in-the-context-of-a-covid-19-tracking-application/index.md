@@ -31,7 +31,8 @@ authors:
   - Stephanie L. Deng
   - Corinna E. Löckenhoff
 image:
-  filename: jpeg-image-43ee-81b9-32-0.jpeg
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
+![](jpeg-image-43ee-81b9-32-0.jpeg)
