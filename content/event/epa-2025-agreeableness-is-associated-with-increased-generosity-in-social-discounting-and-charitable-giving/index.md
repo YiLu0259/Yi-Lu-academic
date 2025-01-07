@@ -18,6 +18,10 @@ event_url: https://www.easternpsychological.org/
 publishDate: 2025-01-07T00:01:51.599Z
 draft: false
 featured: false
+authors:
+  - Wenyu Yu
+  - Yi Lu
+  - Corinna E. Löckenhoff
 image:
   filename: featured
   focal_point: Smart
