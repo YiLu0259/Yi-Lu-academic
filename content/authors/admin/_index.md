@@ -39,7 +39,7 @@ superuser: true
 ---
 *Yi* is pronounced as /ee/. 
 
-**Looking for postdoc position starting summer 2025!**
+**Looking for postdoc position starting summer 2026!**
 
 I am currently a fifth-year Ph.D. candidate in the [Healthy Aging Lab](https://www.human.cornell.edu/hd/research/labs/healthyaging/home) at [Cornell University](https://www.cornell.edu/), U.S. Before that, I got my Bachelor's degree at [Peking University](https://english.pku.edu.cn/) in China.
 My research focuses on **lifespan development**, especially age-related differences in **self-concepts**, **social relations**, and **decision-making outcomes**. 
