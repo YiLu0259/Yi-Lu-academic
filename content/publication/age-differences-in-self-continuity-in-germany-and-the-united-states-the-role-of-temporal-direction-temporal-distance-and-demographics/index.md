@@ -1,6 +1,6 @@
 ---
-title: "Age Differences in Self-Continuity in Germany and the United States: The
-  role of Temporal Direction, Temporal Distance, and Demographics"
+title: "Age differences in self-continuity in Germany and the United States: The
+  role of temporal direction, temporal distance, and demographics"
 publication_types:
   - "2"
 authors:
@@ -9,7 +9,7 @@ authors:
   - Gerstorf
   - D.
   - "& Löckenhoff"
-  - C.
+  - C. E.
 doi: "doi: 10.1093/geronb/gbad002"
 publication: "Journals of Gerontology Series B: Psychological Sciences and Social Sciences "
 abstract: >
