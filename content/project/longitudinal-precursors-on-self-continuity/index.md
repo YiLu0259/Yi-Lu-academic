@@ -1,5 +1,5 @@
 ---
-title: Longitudinal Precursors on Self-Continuity
+title: Longitudinal Precursors of Self-Continuity
 subtitle: Longitudinal Trajectories of Health as Precursors of Average Levels
   and Temporal Extensions of Self-continuity
 date: 2023-02-28T23:37:45.637Z
