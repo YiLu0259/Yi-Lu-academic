@@ -1,6 +1,6 @@
 ---
-title: Differences in the Temporal Extension of Self-Continuity Over the Course
-  of the COVID-19 Pandemic
+title: Differences in the temporal extension of self-continuity over the course
+  of the COVID-19 pandemic
 publication_types:
   - "2"
 authors:
