@@ -9,7 +9,8 @@ authors:
   - J. R.
   - Thomas
   - M.
-  - "& LöckenhoffC.E."
+  - "& Löckenhoff"
+  - C. E.
 doi: https://doi.org/10.1016/j.paid.2025.113354
 publication: Personality and Individual Differences
 abstract: Self-continuity (i.e., people's sense of connectedness with their past
