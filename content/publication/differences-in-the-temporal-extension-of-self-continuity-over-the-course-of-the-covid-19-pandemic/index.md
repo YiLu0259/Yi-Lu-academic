@@ -5,7 +5,8 @@ publication_types:
   - "2"
 authors:
   - Lu
-  - Y. & Löckenhoff
+  - Y.
+  - "& Löckenhoff"
   - C. E.
 doi: doi:10.1080/15298868.2024.2400732
 publication: Self and Identity
