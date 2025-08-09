@@ -14,3 +14,8 @@ design:
     image_parallax: true
 ---
 < partial "twitter-feed.html" >
+<center>
+<a class="twitter-timeline" data-width="700" data-height="300" href="https://x.com/YiLu_lois?ref_src=twsrc%5Etfw">
+Tweets by Yi
+</a>
+</center>
