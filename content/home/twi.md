@@ -20,9 +20,3 @@ Tweets by Yi
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 
-<a class="twitter-timeline"
-  href="https://twitter.com/TwitterDev"
-  data-width="300"
-  data-height="300">
-Tweets by @TwitterDev
-</a>
