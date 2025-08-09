@@ -17,4 +17,12 @@ design:
 <a class="twitter-timeline" data-width="700" data-height="300" href="https://x.com/YiLu_lois?ref_src=twsrc%5Etfw">
 Tweets by Yi
 </a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
+
+<a class="twitter-timeline"
+  href="https://twitter.com/TwitterDev"
+  data-width="300"
+  data-height="300">
+Tweets by @TwitterDev
+</a>
