@@ -11,12 +11,12 @@ interests:
 social:
   - display:
       header: false
-    icon_pack: fab
+    icon_pack: custom
     icon: bluesky
     link: https://bsky.app/profile/yilu01.bsky.social
   - display:
       header: false
-    icon_pack: fab
+    icon_pack: custom
     icon: x-twitter
     link: https://x.com/YiLu_lois
   - display:
