@@ -13,8 +13,11 @@ design:
     image_size: cover
     image_parallax: true
 ---
-<!-- Common Ninja Widget -->
-{{< rawhtml >}}
-<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
-<div class="commonninja_component pid-01eb22c0-0a6f-435e-b661-09407e6506ed"></div>
-{{< /rawhtml >}}
+<a class="twitter-timeline" href="https://twitter.com/XDevelopers?ref_src=twsrc%5Etfw">Tweets by XDevelopers</a> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+</script>
+
+
+<div class="commonninja_component pid-a65f66c7-e808-4125-a464-f6d6bc258362"></div>
+<script async src="https://cdn.commoninja.com/sdk/latest/commonninja.js" charset="utf-8">
+</script>
