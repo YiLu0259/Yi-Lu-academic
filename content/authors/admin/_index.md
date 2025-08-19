@@ -18,7 +18,7 @@ social:
       header: false
     icon_pack: fab
     icon: x-twitter
-    link: https://twitter.com/YiLu_lois
+    link: https://x.com/YiLu_lois
   - display:
       header: false
     link: https://www.linkedin.com/in/yi-lu-352895213/
