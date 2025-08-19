@@ -17,7 +17,7 @@ social:
   - display:
       header: false
     icon_pack: fab
-    icon: twitter
+    icon: x-twitter
     link: https://twitter.com/YiLu_lois
   - display:
       header: false
