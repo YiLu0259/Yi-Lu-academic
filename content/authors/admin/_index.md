@@ -12,6 +12,11 @@ social:
   - display:
       header: false
     icon_pack: fab
+    icon: bluesky
+    link: https://bsky.app/profile/yilu01.bsky.social
+  - display:
+      header: false
+    icon_pack: fab
     icon: twitter
     link: https://twitter.com/YiLu_lois
   - display:
