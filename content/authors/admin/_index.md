@@ -11,24 +11,19 @@ interests:
 social:
   - display:
       header: false
-    icon_pack: custom
-    icon: bluesky
-    link: https://bsky.app/profile/yilu01.bsky.social
+    icon_pack: ai
+    icon: orcid
+    link: https://orcid.org/0000-0002-0755-0596
   - display:
       header: false
-    icon_pack: custom
-    icon: x-twitter
+    icon_pack: fab
+    icon: twitter
     link: https://x.com/YiLu_lois
   - display:
       header: false
     link: https://www.linkedin.com/in/yi-lu-352895213/
     icon_pack: fab
     icon: linkedin
-  - display:
-      header: false
-    link: https://github.com/YiLu0259
-    icon_pack: fab
-    icon: github
 organizations:
   - name: Cornell University
     url: https://www.cornell.edu/
