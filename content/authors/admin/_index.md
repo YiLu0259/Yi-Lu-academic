@@ -24,6 +24,11 @@ social:
     link: https://www.linkedin.com/in/yi-lu-352895213/
     icon_pack: fab
     icon: linkedin
+  - display:
+      header: false
+    link: https://www.lois-lu.com/uploads/cv_yi.pdf
+    icon_pack: ai
+    icon: cv
 organizations:
   - name: Cornell University
     url: https://www.cornell.edu/
