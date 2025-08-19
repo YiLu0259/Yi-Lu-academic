@@ -13,11 +13,6 @@ design:
     image_size: cover
     image_parallax: true
 ---
-<center>
-<a class="twitter-timeline" data-width="700" data-height="300" href="https://twitter.com/YiLu08121831?ref_src=twsrc%5Etfw">Tweets by Yi</a> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
-
-
 <div class="commonninja_component pid-a65f66c7-e808-4125-a464-f6d6bc258362"></div>
 <script async src="https://cdn.commoninja.com/sdk/latest/commonninja.js"  defer>
 </script>
