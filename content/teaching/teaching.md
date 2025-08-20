@@ -5,7 +5,9 @@ headless: false
 weight: 10
 title: Teaching
 active: true
+column: '1'
 ---
+
 # Teaching Philosophy
 As a developmental psychologist and gerontologist, my teaching philosophy is centered on the belief that the ultimate goal of education is for personal fulfillment and lifespan development. To achieve this goal, I implement the following elements in my teaching: 
 - **Inclusivity**. Being an international student myself, I understand the importance of creating an inclusive classroom environment. With Cornell CTI lead fellows, we discussed Bell Hooks' *Teaching to Transgress* and Paulo Freire's *Pedagogy of the Oppressed*.
@@ -15,7 +17,7 @@ As a developmental psychologist and gerontologist, my teaching philosophy is cen
 
 # Teaching Excellence
 ## Cornell Center for Teaching Innovation
-I am a **senior lead teaching fellow** at [the Center for Teaching Innovation (CTI)](https://teaching.cornell.edu/grants-awards/graduate-students-postdoctoral-fellows), 
+I am a **senior lead fellow** at [the Center for Teaching Innovation (CTI)](https://teaching.cornell.edu/grants-awards/graduate-students-postdoctoral-fellows), 
 
  ![](CTI.JPG "CTI Teaching Fellows")
 
@@ -33,10 +35,16 @@ Course Aim:
 Student feedback gallery?
 
 ## Guest Lectures and Workshops
+### Cognitive Aging for COGST 1101
 
+### Essentials of Teaching Institutes
 
+### Teaching Portfolio Program
 
-a graduate mentor in the [Graduate Students Mentoring Undergraduates program](https://oadi.cornell.edu/signature-programs/graduate-students-mentoring-undergraduates) at Cornell, and a mentor for Extended Project Qualification in Beijing, China, assisting high school students with their first social science projects. 
+# Mentoring
+At the Healthy Aging Lab, I mentor a group of 2-3 undergraduate research assistants.
+
+I also served as a graduate mentor in the [Graduate Students Mentoring Undergraduates program](https://oadi.cornell.edu/signature-programs/graduate-students-mentoring-undergraduates) at Cornell, and a mentor for the Extended Project Qualification in Beijing, China, assisting high school students with their first social science projects. 
 
 
 
