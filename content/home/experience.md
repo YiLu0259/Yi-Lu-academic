@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 100
 
-title: Experience
+title: Research Experience
 subtitle:
     
 # Date format for experience
@@ -28,6 +28,9 @@ experience:
     location: NY, US
     date_start: '2023-08-21'
     date_end: '2023-12-01'
+    description: |2-
+        * Projects on Resident-to-Resident Elder Mistreatment (R-REM) in nursing homes and assisted living facilities
+        * * Project on Estrangement among family members
   
   - title: Research Assistant
     company: Lifespan Developmental Lab, Peking University
