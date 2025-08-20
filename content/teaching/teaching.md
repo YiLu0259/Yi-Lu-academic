@@ -17,7 +17,10 @@ As a developmental psychologist and gerontologist, my teaching philosophy is cen
 
 # Cornell Center for Teaching Innovation
 I was awarded the teaching fellowship at [the Center for Teaching Innovation (CTI)](https://teaching.cornell.edu/grants-awards/graduate-students-postdoctoral-fellows) since 2023 and am currently a **senior lead fellow** at CTI, co-leading a group of 20 graduate teaching fellows from different disciplines across the campus. At CTI, we design and implement teaching programs, events, and resources that foster teaching excellence and innovation. As a senior lead fellow, I also develop leadership and mentorship skills, reflect on and refine my teaching skills, enhance my communication skills, and foster collaborative, interdisciplinary teaching networks across the university, such as the [Ivy+ Teaching Transformation Summit](https://ctl.columbia.edu/graduate-instructors/programs-for-graduate-students/seminars-institutes-for-graduate-students/teaching-transformations/).
- ![](CTI.png "CTI Teaching Fellows") 
+
+<p align="center">
+  <img src="CTI.png" width="600"/>
+</p>
 
 # Teaching Interests and Experience
 I am prepared to teach a range of introductory and advanced courses in **aging and lifespan development**, **judgment and decision making**, **self and identity**, and **social psychology**. I am also prepared to teach **research methods and statistics** at both the undergraduate and graduate levels, including experiment design, measurements, and quantitative methods such as multilevel modeling.
