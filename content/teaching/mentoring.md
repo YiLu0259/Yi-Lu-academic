@@ -16,5 +16,5 @@ I also served as a **graduate mentor** in the [Graduate Students Mentoring Under
 At the graduate level, I served as a volunteer tutor for the Consider Cornell grad diversity recruitment weekend and a mentor for the first-year PhD students at the Department of Psychology.
 Beyond Cornell, I am also a mentor for the Extended Project Qualification in Beijing, China, assisting high school students with their first social science projects. 
 <p align="center">
-  <img src="GSMU2023.jpg" alt="My fellow pack members!" title="My fellow pack members!" width="600"/>
+  <img src="GSMU2023.jpg" width="600"/>
 </p>
