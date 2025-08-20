@@ -19,7 +19,7 @@ As a developmental psychologist and gerontologist, my teaching philosophy is cen
 ## Cornell Center for Teaching Innovation
 I am a **senior lead fellow** at [the Center for Teaching Innovation (CTI)](https://teaching.cornell.edu/grants-awards/graduate-students-postdoctoral-fellows), 
 
- ![](CTI.JPG "CTI Teaching Fellows")
+ ![](CTI.png "CTI Teaching Fellows")
 
 ## Instructor of Record
 ### [HD2180] *Human Development: Adulthood and Aging*
