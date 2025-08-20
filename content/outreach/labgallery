@@ -1,0 +1,44 @@
+---
+widget: gallery
+headless: true
+weight: 50
+title: "My Adventures"
+subtitle: "Swipe left and right to explore"
+design:
+  columns: "1"
+content:
+  page_type: slide
+  items:
+    - image: cats.jpg
+      caption: "My cats"
+    - image: CTI.JPG
+      caption: "Hiking trip"
+    - image: GSC.png
+      caption: "Handcrafts"
+---
+
+
+
+---
+title: Lab Photos
+type: gallery
+headless: false
+
+# Order that this section appears on the page.
+weight: 50
+
+title: Lab Photos
+
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
+
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view: 3
+
+---
+{{< gallery album="lab-photo" >}}
