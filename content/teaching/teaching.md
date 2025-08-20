@@ -70,17 +70,28 @@ By the end of this course, you will:
 </details>
 
 ## Guest Lectures and Workshops Given
-### Cognitive Aging for [COGST 1101] *Introduction to Cognitive Science*
+<details>
+<summary><b>Cognitive Aging for [COGST 1101] <i>Introduction to Cognitive Science</i></b></summary>
+<br>
 In this lecture, we discussed the age-related changes in the brain, attention, and memory with a special focus on older adulthood. After this lecture, students had an understanding of neurobiological changes in brain structure and functions and age differences in different types of attention and memory across various contexts, with practical advice on their preparation for the aging process and interactions with older adults.
+</details>
 
-### Essentials of Teaching Institute
-In this four-part workshop series we developed, participants will explore strategies to foster a positive classroom environment, create effective interactive teaching activities to help students learn, and develop fair methods for assessment and grading. Since 2023, I have instructed all four workshops in this institute covering the following topics:
+<details>
+<summary><b>Essentials of Teaching Institute</b></summary>
+<br>
+
+In this four-part workshop series we developed, participants will explore strategies to foster a positive classroom environment, create effective interactive teaching activities to help students learn, and develop fair methods for assessment and grading. Since 2023, I have instructed all four workshops in this institute, covering the following topics:
 1. Role of TAs in Cultivating an Inclusive Classroom
 2. Supporting Student Learning as a TA
 3. Effective Grading and Feedback
 4. Final Session: Discussion of an Action Plan
+</details>
 
-### Teaching Portfolio Program
-In this in-person program, I co-instructed two workshops for graduate TAs and instructors-in-training on developing Teaching Philosophy Statements and Inclusivity Statements.
+<details>
+  <summary><b>Teaching Portfolio Program</b></summary>
+  <br>
+  In this in-person program, I co-instructed two workshops for graduate TAs and instructors-in-training on developing Teaching Philosophy Statements and Inclusivity Statements.
+</details>
+
 
 
