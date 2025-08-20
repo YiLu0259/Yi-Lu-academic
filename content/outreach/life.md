@@ -30,7 +30,6 @@ In 2024, I was selected for the **Building Future Faculty Program** at North Car
 
 <p align="center">
   <img src="BFF2024.JPG" alt="My fellow pack members!" title="My fellow pack members!" width="800"/>
-  <img src="BFF2024-2.JPG" alt="My fellow pack members!" title="My fellow pack members!" width="800"/>
 </p>
 
 ## For Fun!
