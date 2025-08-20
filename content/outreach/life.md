@@ -29,8 +29,8 @@ I also served on the **Cornelia Ye Teaching Assistant Award Selection Committee*
 In 2024, I was selected for the **Building Future Faculty Program** at North Carolina State University. During the two-and-a-half-day stay, I presented my dissertation work to the current faculty in the Department of Psychology at NC State, and attended sessions that covered life as a faculty member at a research-extensive university, expectations of new faculty, and the resources available for research and teaching. Moreover, I got the chance to meet with scholars from other institutes and disciplines. I have also attended the **Computational Modeling Workshop** held by [SRNDNA](https://srndna.utdallas.edu/) at the University of Pennsylvania, where I had an immersive learning experience of the latest computational models in decision science.
 
 <p align="center">
-  <img src="BFF2024.jpg" alt="My fellow pack members!" title="My fellow pack members!" width="800"/>
-  <img src="BFF2024-2.jpg" alt="My fellow pack members!" title="My fellow pack members!" width="800"/>
+  <img src="BFF2024.JPG" alt="My fellow pack members!" title="My fellow pack members!" width="800"/>
+  <img src="BFF2024-2.JPG" alt="My fellow pack members!" title="My fellow pack members!" width="800"/>
 </p>
 
 ## For Fun!
