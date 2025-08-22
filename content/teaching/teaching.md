@@ -10,10 +10,24 @@ column: '1'
 
 # Teaching Philosophy
 As a developmental psychologist and gerontologist, my teaching philosophy is centered on the belief that the ultimate goal of education is for personal fulfillment and lifespan development. To achieve this goal, I implement the following elements in my teaching: 
-- **Inclusivity**. Being an international student myself, I understand the importance of creating an inclusive classroom environment. With Cornell CTI lead fellows, we discussed Bell Hooks' *Teaching to Transgress* and Paulo Freire's *Pedagogy of the Oppressed*.
-- **Independence**. I believe that autonomy in learning is crucial for students’ success in transitioning from high school to undergraduate and graduate studies. To achieve this goal, *scaffolding* is necessary, and the foundation of scaffolding is to create a secure attachment between the instructor and students.
-- **Integrative design**. I am committed to designing integrative courses via pedagogical and psychological methods. An integrative course combines reinforcement among learning goals, teaching/learning activities, and feedback/assessments with attention to situational factors.
 
+<details>
+<summary><b>Inclusivity</b></summary>
+<br>
+Being an international student myself, I understand the importance of creating an inclusive classroom environment. With Cornell CTI fellows, we discussed Bell Hooks' <i>Teaching to Transgress</i> and Paulo Freire's <i>Pedagogy of the Oppressed</i>. In my classroom, I strive to create a welcoming and inclusive learning environment where every student feels seen, valued, and empowered to contribute their ideas. To achieve this, I get to know each of my students through <b>pre-class and mid-term surveys</b>, with <b>open spaces for discussion</b>. Moreover, I intentionally <b>diversify my teaching materials</b>, adopt accessible formats, avoid negative or deficit-based narratives, and present <b>role models and research from underrepresented groups</b>.
+</details>
+  
+<details>
+<summary><b>Independence</b></summary>
+<br>
+I believe that autonomy in learning is crucial for students’ success in transitioning from high school to undergraduate and graduate studies. To achieve this goal, <b>scaffolding</b> is necessary, and the foundation of scaffolding is to create a secure attachment between the instructor and students. To achieve this, I create an environment that encourages <b>trial and error</b> as part of the learning process, for example, by providing constructive feedback via the compliment sandwich model and the “Yes, and” thinking, and by fostering peer learning through discussion boards and study groups. Besides, I introduced my students to resources that address the “hidden curriculum”, including academic accommodations, external reviews, and the writing center, and effective reading and time management strategies. I also integrate the <b>self-regulation model</b> to facilitate students' personal growth. 
+</details>
+
+<details>
+<summary><b>Integrative design</b></summary>
+<br>
+- I am committed to designing integrative courses that combine reinforcement among learning goals, teaching/learning activities, and feedback/assessments with attention to situational factors. I develop my classes using <b>backward design</b> and <b>Bloom's taxonomy</b>, aligning class activities with learning objectives at different levels. Throughout my course, I employ strategies such as anonymous feedback and <b>backstage agenda</b> to pace course progression. Moreover, I incorporate <b>Universal Design of Learning</b> principles, for example, by accommodating diverse learning styles through <b>multiple modalities</b> such as videos, visual aids, student presentations, and hands-on sessions. To complement summative assessment (e.g., exams and final paper), I incorporate <b>low-stakes formative assessments</b> (e.g., after-class quizzes with quick feedback and resubmission options) to facilitate continuous learning. In response to the rise of Generative AI, I include an <b>AI policy</b> in my syllabi that sets clear expectations and encourages the thoughtful integration of AI into intellectual work.
+</details>
 
 # Center for Teaching Innovation
 I was awarded the teaching fellowship at [Cornell Center for Teaching Innovation (CTI)](https://teaching.cornell.edu/grants-awards/graduate-students-postdoctoral-fellows) since 2023 and am currently a **senior lead fellow** at CTI, co-leading a group of 20 graduate teaching fellows from different disciplines across the campus. At CTI, we design and implement teaching programs, events, and resources that foster teaching excellence and innovation. As a senior lead fellow, I also develop leadership and mentorship skills, reflect on and refine my teaching skills, enhance my communication skills, and foster collaborative, interdisciplinary teaching networks across the university, such as the [Ivy+ Teaching Transformation Summit](https://ctl.columbia.edu/graduate-instructors/programs-for-graduate-students/seminars-institutes-for-graduate-students/teaching-transformations/).
