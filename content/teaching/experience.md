@@ -3,13 +3,14 @@ widget: blank
 widget_id: my-widget-intro
 headless: false
 weight: 30
-title: Teaching
+title: Teaching Interests and Experience
 active: true
 column: '1'
 ---
-
+# Teaching Interests
 I am prepared to teach a range of introductory and advanced courses in **aging and lifespan development**, **judgment and decision making**, **self and identity**, and **social psychology**. I am also prepared to teach **research methods and statistics** at both the undergraduate and graduate levels, including experiment design, measurements, and quantitative methods such as multilevel modeling.
 
+# Teaching Experience
 ## Instructor of Record
 ### [HD2180] *Human Development: Adulthood and Aging*
 Offered term: Summer 2025, online
