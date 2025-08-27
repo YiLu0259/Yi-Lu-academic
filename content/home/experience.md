@@ -30,7 +30,7 @@ experience:
     date_end: '2023-12-01'
     description: |2-
         * Projects on Resident-to-Resident Elder Mistreatment (R-REM) in nursing homes and assisted living facilities
-        * * Project on Estrangement among family members
+        * Project on estrangement among family members
   
   - title: Research Assistant
     company: Lifespan Developmental Lab, Peking University
@@ -51,7 +51,7 @@ experience:
     date_end: '2019-09-01'
     description: |2-
     
-        * Designed and conducted action experiments using Sketchup, MATLAB Psychtoolbox and movement tracking pad. 
+        * Designed and conducted action experiments using SketchUp, MATLAB Psychtoolbox, and movement tracking pads. 
         * Analyzed data on hand movement trajectory and reaction performance using MATLAB. 
 
     
