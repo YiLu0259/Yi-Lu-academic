@@ -2,7 +2,7 @@
 widget: blank
 widget_id: my-widget-intro
 headless: false
-weight: 30
+weight: 60
 title: Mentoring
 active: true
 column: '1'
