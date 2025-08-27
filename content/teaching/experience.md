@@ -17,7 +17,7 @@ Offered term: Summer 2025, online
 
 <details>
 <summary>Course Aim</summary>
-<br>
+
 What do we gain and lose as we age? How do our relationships change over time? How does population aging influence our society? How should we approach aging research, and how can we translate our findings into concrete policies? This course provides an overview of biological, cognitive, and socio-emotional development across the adult life span with a particular focus on the later years. We will consider what age-related changes mean for research, clinical, and policy settings. Different aspects of development will be integrated within a multidisciplinary life-span developmental framework.
 </details>
 
