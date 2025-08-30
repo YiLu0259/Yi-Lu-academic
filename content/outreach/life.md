@@ -15,8 +15,10 @@ comments: false  # Show comments?
 column: '1'
 ---
 ## Serve the Community
-In parallel to my research, I have served as a senior graduate student representative in the **Graduate Student Committee** in the Psychology Department between 2022 and 2024. 
-
+In parallel to my research, I have served as a senior graduate student representative in the **Graduate Student Committee** in the Psychology Department between 2022 and 2024, and was awarded the **Exceptional Department Service Award** in 2024. 
+<p align="center">
+  <img src="service award.JPG" width="600"/>
+</p>
 
 During 2023-25, I am also a founding member of the **Diversity and International Students Committee (DISC)** in the [Graduate and Professional Student Assembly](https://assembly.cornell.edu/shared-governance-cornell/graduate-and-professional-student-assembly).
 <p align="center">
