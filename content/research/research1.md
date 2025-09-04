@@ -4,7 +4,7 @@ headless: true
 weight: 10
 title: Research Overview
 design:
-  columns: "2"
+  columns: "1"
 ---
 
 <div class="row">
