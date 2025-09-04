@@ -14,9 +14,6 @@ design:
   <div class="col-md-6">
     <p>
       Self-continuity, the perceived connectedness with our past and future selves at different time points, is a cornerstone of self-identity. It is associated with preventive decisions, health-promoting behaviors, life satisfaction, and well-being at both individual and societal levels, while lower self-continuity is linked to depression and suicidal ideation (Sedikides et al., 2023). Yet, our understanding of how self-continuity varies across contexts remains limited. To address this gap and inform both implications for subjective well-being and health policies, my research investigates the temporal pattern of self-continuity across age, culture, and major life transitions.
-    </p>
-  </div>
-</div>
 
 <br>
 <details>
@@ -29,3 +26,6 @@ design:
   <br>
   <b>Lu, Y.</b>, Lu, Y., Ghose, U., Gerstorf, D., & Löckenhoff, C. E. (under review). Longitudinal health-related precursors of self-continuity in the German Socio-Economic Panel Study.
 </details>
+    </p>
+  </div>
+</div>
