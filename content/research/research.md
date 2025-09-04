@@ -9,9 +9,9 @@ reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
-
-column: 1
-view: 3
+design:
+  column: 1
+  view: 3
 
 # Optional header image (relative to `assets/media/` folder).
 
@@ -20,22 +20,22 @@ view: 3
 ---
 My lines of research focus on lifespan development in:
 
-### (1) Temporal Self
-My current research focuses on the age differences in **temporal self-continuity**, i.e., the psychological connectedness between our current self and a distant past/ future self. Our latest [published work](http://doi.org/10.1093/geronb/gbad002) examined the robustness of such age-related structural differences in self-continuity by involving multiple datasets collected across age groups, countries, and time periods. Our next step is to develop an advanced modeling approach by applying economic discounting models to self-continuity.
 
+### (1) From Past to Future: Self-Continuity
+
+Self-continuity, the perceived connectedness with our past and future selves at different time points, is a cornerstone of self-identity. It is associated with preventive decisions, health-promoting behaviors, life satisfaction, and well-being at both individual and societal levels, while lower self-continuity is linked to depression and suicidal ideation (Sedikides et al., 2023). Yet, our understanding of how self-continuity varies across contexts remains limited. To address this gap and inform both implications for subjective well-being and health policies, my research investigates the **temporal pattern of self-continuity across age, culture, and major life transitions**.
 ![](pastfuture.jpeg " ")
 
-### (2) Social Self
-I’m also interested in the extended self in social relations. **Social distance** refers to the extent to which people experience a sense of familiarity (nearness and intimacy) or unfamiliarity (farness and difference) between themselves and people belonging to different social, ethnic, occupational, and religious groups from their own. My [relevant work](http://doi.org/10.1002/pchj.469) examined the age differences in how people judge strangers' trustworthiness at first glance at their faces.
+ 
+  
+### (2) The Self in Decision-Making
+How we perceive ourselves plays a vital role in shaping our decisions. For older adults, age-related changes in cognitive resources present unique challenges to decision-making. In response, I examine how older adults’ view of future selves and their age group influence decision-making in intertemporal and risky contexts.
+
 
 ![](male_cycle.jpeg " ")
 
 ### (3) Decision-Making
-A deeper understanding of our temporally and socially extended selves can ultimately help us to improve real-life decisions, such as saving, investments, and charity giving, especially for older adults. I'm particularly interested in two patterns of decision-making. 
-
-- **Temporal discounting** refers to the phenomenon in intertemporal choices where delayed rewards are subjectively devalued as time delay increases, closely related to one's future benefits. Our recent work examined the association between self-continuity and temporal discounting. 
-
-- **Social discounting** appears when people tend to benefit others according to the perceived social distance. For example, people are more likely to fund their family and friends than a random stranger on the street. We are currently conducting a cross-cultural survey on age-related differences in social discounting. 
+According to socioemotional selectivity theory (SST; Carstensen, 1992), as people age, they prioritize their social and emotional goals. This shift has important implications for older adults’ judgment and decision-making, particularly given their heightened vulnerability to elder abuse and financial fraud. My ongoing work aims to uncover the age-related differences in judgments and decisions in social contexts.
 
 ![](decision.jpeg " ")
 
