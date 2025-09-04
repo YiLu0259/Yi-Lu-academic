@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 weight: 10
-title: Research Overview
+title: The Self in Decision-Making
 design:
   columns: "1"
 ---
@@ -13,8 +13,7 @@ design:
   </div>
   <div class="col-md-6">
     <p>
-      Your research text goes here. You can write a description of your research,
-      projects, or publications.
+      How we perceive ourselves plays a vital role in shaping our decisions. For older adults, age-related changes in cognitive resources present unique challenges to decision-making. In response, I examine how older adults’ view of future selves and their age group influence decision-making in intertemporal and risky contexts.
     </p>
   </div>
 </div>
