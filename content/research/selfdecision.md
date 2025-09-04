@@ -22,6 +22,8 @@ design:
     </p>
   </div>
     <div class="col-md-6">
+      <br>
     <img src="SCTD.jpg" style="max-width:100%;">
+      <br>
   </div>
 </div>
