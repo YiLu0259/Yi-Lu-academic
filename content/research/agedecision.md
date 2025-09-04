@@ -14,9 +14,7 @@ design:
   <div class="col-md-6">
     <p>
       According to the Socioemotional Selectivity Theory (Carstensen, 1992), as people age, they prioritize their social and emotional goals. This shift has important implications for older adults’ judgment and decision-making, particularly given their heightened vulnerability to elder abuse and financial fraud. My ongoing work aims to uncover the age-related differences in judgments and decisions in social contexts.
-    </p>
-  </div>
-</div>
+
 <br>
 <details>
 <summary><b>Selected Work</b></summary>
@@ -29,3 +27,6 @@ design:
   <b>Lu, Y.*</b>, Lin, H.* Löckenhoff, C. E., Zhang, X., & Fung, H. H. (in preparation). Age differences in social discounting and charitable giving in the U.S. and China.
 
 </details>
+    </p>
+  </div>
+</div>
