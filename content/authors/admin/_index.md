@@ -3,11 +3,11 @@ title: Yi Lu/ 芦 旖
 role: PhD Candidate of Developmental Psychology
 avatar_filename: IMG_2487.jpg
 bio: I am interested in people's aging process and age-related psychological changes
-  in self-concepts and social relations.
+  in self-related concepts and decision-making.
 interests:
-  - Aging Process
+  - Lifespan Development
   - Self-Continuity
-  - Social Interaction
+  - Decision-Making
 social:
   - display:
       header: false
