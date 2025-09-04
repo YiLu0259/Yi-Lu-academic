@@ -18,6 +18,7 @@ design:
   </div>
 </div>
 
+<br>
 <details>
 <summary><b>Selected Work</b></summary>
   <br>
