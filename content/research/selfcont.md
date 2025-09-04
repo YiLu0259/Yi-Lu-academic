@@ -18,7 +18,7 @@ design:
   </div>
 </div>
 
-
+<br>
 <details>
 <summary><b>Selected Work</b></summary>
   <b>Lu, Y.</b>, Gerstorf, D., & Löckenhoff, C. E. (2023). Age differences in self-continuity in the U.S. and Germany: The role of temporal direction, temporal distance, and demographics. <i>The Journals of Gerontology: Series B</i>. [<a href="https://doi.org/10.1093/geronb/gbad002">Link</a>]
