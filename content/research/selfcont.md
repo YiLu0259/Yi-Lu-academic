@@ -9,7 +9,9 @@ design:
 
 <div class="row">
   <div class="col-md-6">
+    <br>
     <img src="pastfuture.jpeg" style="max-width:100%;">
+    <br>
   </div>
   <div class="col-md-6">
     <p>
