@@ -1,13 +1,17 @@
 ---
-widget: hero
-headless: true
-weight: 50
-title: "For Fun!"
-hero_media: male-cycle.jpg    # must be in assets/media/
-design:
-  columns: "1"
-  background:
-    color: ''
+title: "Research"
+type: landing
+sections:
+  - block: hero
+    id: for-fun
+    content:
+      title: "For Fun!"
+      text: |-
+        During my leisure, I enjoy spending time with my cats, handcrafting, and hiking.
+      image:
+        filename: "male-cycle.jpg"
+    design:
+      background:
+        color: ''
 ---
 
-During my leisure, I enjoy spending time with my cats, handcrafting, and hiking.
