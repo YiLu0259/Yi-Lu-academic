@@ -16,7 +16,9 @@ design:
     </p>
   </div>
   <div class="col-md-6">
+    <br>
     <img src="comp_model.jpeg" style="max-width:100%;">
+    <br>
   </div>
 </div>
 
