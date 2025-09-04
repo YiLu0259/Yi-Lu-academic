@@ -34,12 +34,12 @@ organizations:
     url: https://www.cornell.edu/
 education:
   courses:
-    - year: "2020-26"
+    - year: "Expected 2026"
       course: PhD candidate in Developmental Psychology
       institution: Cornell University
     - course: BSc in Psychology
       institution: Peking University
-      year: "2016-20"
+      year: "2020"
 superuser: true
 ---
 *Yi* is pronounced as /ee/. 
