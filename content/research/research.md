@@ -18,7 +18,7 @@ design:
   
   
 ---
-My lines of research focus on lifespan development in:
+My research centers on two interconnected aspects of the aging process—self-continuity and decision-making—and their implications for lifelong well-being. These topics address fundamental questions of everyday life: how we view ourselves across the past, present, and future, and how we make decisions that shape our future. 
 
 
 ### (1) From Past to Future: Self-Continuity
@@ -34,8 +34,13 @@ How we perceive ourselves plays a vital role in shaping our decisions. For older
 
 ![](male_cycle.jpeg " ")
 
-### (3) Decision-Making
+### (3) Age Differences in Social Decisions
 According to socioemotional selectivity theory (SST; Carstensen, 1992), as people age, they prioritize their social and emotional goals. This shift has important implications for older adults’ judgment and decision-making, particularly given their heightened vulnerability to elder abuse and financial fraud. My ongoing work aims to uncover the age-related differences in judgments and decisions in social contexts.
 
 ![](decision.jpeg " ")
+
+### (4) Overcoming Limitations of Existing Research
+My methodological training spans both quantitative and qualitative approaches, including self-reported surveys, behavioral experiments and structured interviews. I am proficient in data collection in both online and laboratory settings, cross-sectional and longitudinal designs, and a broad range of analytic techniques, such as thematic analysis of text responses, multilevel modeling, Bayesian and nonparametric statistics, structural regression models, time-series analysis, and longitudinal approaches to fixed effects and hybrid models. Leveraging this toolkit, I strive to address methodological limitations in previous research by developing and adopting advanced methods in my research, alongside open science practices.
+
+
 
