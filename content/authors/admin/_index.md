@@ -34,18 +34,20 @@ organizations:
     url: https://www.cornell.edu/
 education:
   courses:
-    - year: ""
+    - year: "2020-26"
       course: PhD candidate in Developmental Psychology
       institution: Cornell University
     - course: BSc in Psychology
       institution: Peking University
-      year: ""
+      year: "2016-20"
 superuser: true
 ---
 *Yi* is pronounced as /ee/. 
 
-**Looking for postdoc position starting summer 2026!**
+**Looking for both postdoc positions and assistant professorships starting summer 2026!**
 
-I am currently a fifth-year Ph.D. candidate in the [Healthy Aging Lab](https://www.human.cornell.edu/hd/research/labs/healthyaging/home) at [Cornell University](https://www.cornell.edu/), U.S. Before that, I got my Bachelor's degree at [Peking University](https://english.pku.edu.cn/) in China.
-My research focuses on **lifespan development**, especially age-related differences in **self-concepts**, **social relations**, and **decision-making outcomes**. 
+I am currently a sixth-year Ph.D. candidate in the Healthy Aging Lab at [Cornell University](https://www.cornell.edu/), U.S. Before that, I received my Bachelor's degree at [Peking University](https://english.pku.edu.cn/) in China.
+My research centers on **lifespan development** in **self-concepts** and **decision-making processes**, with their implications for **well-being**. These topics address fundamental questions of everyday life: how we view ourselves across the past, present, and future, and how we make decisions that shape our future. 
+
+To do so, I adopt quantitative methodologies, including behavioral experiments and large-scale surveys, supplemented with qualitative evidence such as text responses.
 
