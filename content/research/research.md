@@ -18,7 +18,11 @@ design:
   
   
 ---
-My research centers on two interconnected aspects of the aging process: **self-continuity** and **decision-making**, and their implications for lifelong well-being. These topics address fundamental questions of everyday life: *how we view ourselves across the past, present, and future*, and *how we make decisions that shape our future*. 
+My research centers on two interconnected aspects of the aging process: **self-continuity** and **decision-making**, and their implications for lifelong well-being. These topics address fundamental questions of everyday life: 
+
+(1) *How do we view ourselves across the past, present, and future?*
+
+(2) *How do we make decisions that shape our future?*
 
 To do so, I combine **quantitative methodologies** with qualitative evidence, including behavioral experiments, large-scale online surveys, and text responses, and apply advanced statistical models to uncover nuanced patterns in the data.
 
