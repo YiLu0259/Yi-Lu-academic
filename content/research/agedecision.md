@@ -23,7 +23,7 @@ design:
   <b>Lu, Y.</b>, Chen, C., Yin, X., Xu, Y., & Zhang, X. (2021). Viewing time and facial trustworthiness perception: Giving it a second thought may not work for older adults. <i>PsyCh Journal</i>. [<a href="https://doi.org/10.1002/pchj.469">Link</a>]
   
   <br>
-  <b>Lu, Y.</b>, Goscicki, B., & Löckenhoff, C. E. (submitted). Age differences in social discounting and charitable giving in a U.S. sample.
+  <b>Lu, Y.</b>, Goscicki, B., & Löckenhoff, C. E. (under review). Age differences in social discounting and charitable giving in a U.S. sample.
   
   <br>
   <b>Lu, Y.*</b>, Lin, H.* Löckenhoff, C. E., Zhang, X., & Fung, H. H. (in preparation). Age differences in social discounting and charitable giving in the U.S. and China.
