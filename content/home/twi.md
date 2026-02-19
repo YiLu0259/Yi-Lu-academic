@@ -13,6 +13,5 @@ design:
     image_size: cover
     image_parallax: true
 ---
-<div class="commonninja_component pid-a65f66c7-e808-4125-a464-f6d6bc258362"></div>
-<script async src="https://cdn.commoninja.com/sdk/latest/commonninja.js"  defer>
-</script>
+<div class="sk-ww-linkedin-profile-post" data-embed-id="25655889"></div>
+<script src="https://widgets.sociablekit.com/linkedin-profile-posts/widget.js" defer></script>
