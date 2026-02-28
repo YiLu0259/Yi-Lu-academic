@@ -26,7 +26,7 @@ design:
   <b>Lu, Y.</b>, & Löckenhoff, C. E. (2024). Differences in the temporal extension of self-continuity over the course of the COVID-19 pandemic. <i>Self and Identity</i>. [<a href="https://doi.org/10.1080/15298868.2024.2400732">Link</a>]
 
   <br>
-  <b>Lu, Y.</b>, Ghose, U., Gerstorf, D., & Löckenhoff, C. E. (in revision). Longitudinal health-related precursors of self-continuity in the German Socio-Economic Panel Study.
+  <b>Lu, Y.</b>, Ghose, U., Gerstorf, D., & Löckenhoff, C. E. (2026). Age, Preceding Health Changes, and the Temporal Structure of Self–Continuity. <i>Psychology and Aging</i>.
 </details>
     </p>
   </div>
