@@ -17,7 +17,7 @@ design:
         <br>
         <b>Lu, Y.</b>, Rutt, J., Thomas, M., & Löckenhoff, C. E. (2025). Modeling temporal self-continuity and its association with temporal discounting. <i>Personality and Individual Differences</i>. [<a href="https://doi.org/10.1016/j.paid.2025.113354">Link</a>]
         <br>
-        <b>Lu, Y.*</b>, Liao, S.*, Ma, G., Guo, Z., Zhou, Y., Sun, Y. Y., Li, T., & Zhang, X. (under review). The impact of age-related stereotypes on risky decision-making in the Balloon Analogue Risk Task: Shifts in prior beliefs rather than loss aversion.
+        <b>Lu, Y.*</b>, Liao, S.*, Ma, G., Guo, Z., Zhou, Y., Sun, Y. Y., Li, T., & Zhang, X. (2026). The impact of age-related stereotypes on risky decision-making in the Balloon Analogue Risk Task: Shifts in prior beliefs rather than loss aversion.
       </details>
     </p>
   </div>
