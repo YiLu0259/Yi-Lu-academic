@@ -20,13 +20,13 @@ design:
 <br>
 <details>
 <summary><b>Selected Work</b></summary>
-  <b>Lu, Y.</b>, Gerstorf, D., & Löckenhoff, C. E. (2023). Age differences in self-continuity in the U.S. and Germany: The role of temporal direction, temporal distance, and demographics. <i>The Journals of Gerontology: Series B</i>. [<a href="https://doi.org/10.1093/geronb/gbad002">Link</a>]
+  <b>Lu, Y.</b>, Gerstorf, D., & Löckenhoff, C. E. (2023). Age differences in self-continuity in the U.S. and Germany: The role of temporal direction, temporal distance, and demographics. <i>The Journals of Gerontology: Psychological Sciences</i>. [<a href="https://doi.org/10.1093/geronb/gbad002">Link</a>]
   
   <br>
   <b>Lu, Y.</b>, & Löckenhoff, C. E. (2024). Differences in the temporal extension of self-continuity over the course of the COVID-19 pandemic. <i>Self and Identity</i>. [<a href="https://doi.org/10.1080/15298868.2024.2400732">Link</a>]
 
   <br>
-  <b>Lu, Y.</b>, Ghose, U., Gerstorf, D., & Löckenhoff, C. E. (2026). Age, Preceding Health Changes, and the Temporal Structure of Self–Continuity. <i>Psychology and Aging</i>.
+  <b>Lu, Y.</b>, Ghose, U., Gerstorf, D., & Löckenhoff, C. E. (2026). Age, preceding health changes, and the temporal structure of self–continuity. <i>Psychology and Aging</i>.
 </details>
     </p>
   </div>
