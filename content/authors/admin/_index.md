@@ -3,7 +3,7 @@ title: Yi Lu/ 芦 旖
 role: PhD Candidate of Developmental Psychology
 avatar_filename: IMG_2487.jpg
 bio: I am interested in people's aging process and age-related psychological changes
-  in self-related concepts and decision-making.
+  in self-perception and decision-making.
 interests:
   - Lifespan Development
   - Self-Continuity
@@ -34,7 +34,7 @@ organizations:
     url: https://www.cornell.edu/
 education:
   courses:
-    - year: "Expected 2026"
+    - year: "2026"
       course: PhD candidate in Developmental Psychology
       institution: Cornell University
     - course: BSc in Psychology
@@ -42,11 +42,11 @@ education:
       year: "2020"
 superuser: true
 ---
-*Yi* is pronounced as /ee/. 
+*Yi*: /ee/. 
 
-**Looking for both postdoc positions and assistant professorships starting summer 2026!**
+**Beginning in Summer 2026, I will join the Department of Psychology at Western Kentucky University as an Assistant Professor.**
 
-I am currently a sixth-year Ph.D. candidate in the Healthy Aging Lab at [Cornell University](https://www.cornell.edu/), U.S. Before that, I received my Bachelor's degree at [Peking University](https://english.pku.edu.cn/) in China.
+I am a final-year Ph.D. candidate in the Healthy Aging Lab at [Cornell University](https://www.cornell.edu/), U.S. Before that, I received my Bachelor's degree at [Peking University](https://english.pku.edu.cn/) in China.
 My research centers on **lifespan development** in **self-concepts** and **decision-making processes**, with their implications for **well-being**. These topics address fundamental questions of everyday life: how we view ourselves across the past, present, and future, and how we make decisions that shape our future. 
 
 To do so, I adopt quantitative methodologies, including behavioral experiments and large-scale surveys, supplemented with qualitative evidence such as text responses.
