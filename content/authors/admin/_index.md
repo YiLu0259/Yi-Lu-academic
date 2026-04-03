@@ -42,8 +42,6 @@ education:
       year: "2020"
 superuser: true
 ---
-*Yi*: /ee/. 
-
 **Beginning in Summer 2026, I will join the Department of Psychology at Western Kentucky University as an Assistant Professor.**
 
 I am a final-year Ph.D. candidate in the Healthy Aging Lab at [Cornell University](https://www.cornell.edu/), U.S. Before that, I received my Bachelor's degree at [Peking University](https://english.pku.edu.cn/) in China.
