@@ -11,7 +11,7 @@ authors:
   - "& Löckenhoff"
   - C. E.
 doi: "doi: 10.1093/geronb/gbad002"
-publication: "Journals of Gerontology Series B: Psychological Sciences and Social Sciences "
+publication: "The Journals of Gerontology: Psychological Sciences."
 abstract: >
   Objectives: Previous research suggests that self-continuity is higher in older
   ages, especially for more distant intervals. This study extends prior work by
